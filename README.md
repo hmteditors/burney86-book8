@@ -1,5 +1,8 @@
 # burney86-book8
 
+Book 8 begins on
+folio [73 recto](http://www.homermultitext.org/ict2/?urn=urn:cite2:citebl:burney86imgs.v1:burney_ms_86_f073r)
+
 
 
 ## URNs: quick reference
