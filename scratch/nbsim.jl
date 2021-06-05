@@ -23,11 +23,11 @@ surface = surfs[1]
 sdse = surfaceDse(repo, surface)
 # Use citableimage library to craft URLs to ICT2.
 
-## DSE ACCURACY
+## DSE ACCURACY (works in notebook)
 row = sdse[1, :]
 diplnodetext(repo, row.passage)
 
-## ORTHOGRAPHY
+## ORTHOGRAPHY (works in notebook)
 textconfig = citation_df(repo)
 
 tidy = EditorsRepo.baseurn(row.passage)
