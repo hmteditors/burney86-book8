@@ -8,18 +8,18 @@ using Orthography
 reporoot = pwd()
 repo = repository(reporoot)
 
-## CATALOGING CHECKS:
+## CATALOGING CHECKS: (works in notebook)
 cites = citation_df(repo)
 filesmatch(trepo, cites)
 
 # ... document other functions listing discrepancies
 
-## SURFACES FOR MENU
+## SURFACES FOR MENU (works in notebook)
 surfs = surfaces(repo)
 surface = surfs[1]
 
 
-## DSE RECORDS
+## DSE COMPLETENESS (works in notebook)
 sdse = surfaceDse(repo, surface)
 # Use citableimage library to craft URLs to ICT2.
 
