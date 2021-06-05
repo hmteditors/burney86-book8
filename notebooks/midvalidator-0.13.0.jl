@@ -327,7 +327,7 @@ md"> Repository and image services"
 # we can just use the parent directory (dirname() in julia) for the
 # root directory.
 function editorsrepo() 
-    EditingRepository( dirname(pwd()), "editions", "dse", "config")
+    repository(dirname(pwd()))
 end
 
 # ╔═╡ 35255eb9-1f54-4f9d-8c58-2d450e09dff9
@@ -508,12 +508,9 @@ begin
 	end
 end
 
-# ╔═╡ 38bc03b0-6700-4366-82ea-e5cf92c388ef
-surface
-
 # ╔═╡ Cell order:
-# ╟─8cd70daf-566d-423d-931c-e5021ad2778a
 # ╟─766e600d-200c-4421-9a21-a8fa0aa6a4a7
+# ╟─8cd70daf-566d-423d-931c-e5021ad2778a
 # ╟─17ebe116-0d7f-4051-a548-1573121a33c9
 # ╟─35255eb9-1f54-4f9d-8c58-2d450e09dff9
 # ╟─617ce64a-d7b1-4f66-8bd0-f7a240a929a7
@@ -547,4 +544,3 @@ surface
 # ╟─a5ee0d67-60d3-42eb-b551-4463e7c50f2c
 # ╟─476c9ae2-0dd7-4603-b529-17c229d83f7e
 # ╟─9913000f-295a-41e3-bdfa-003774d3f574
-# ╠═38bc03b0-6700-4366-82ea-e5cf92c388ef
