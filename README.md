@@ -19,3 +19,8 @@ folio [73 recto](http://www.homermultitext.org/ict2/?urn=urn:cite2:citebl:burney
 
 
 
+## Previous publications
+
+A complete edition was published by Ernst Maas as volume 5 in the *Scholia Graeca in Iliadem* series (available as pdf [here](http://www.homermultitext.org/pd-pdfs/Dindorf-v5.pdf)).
+
+Hartmut Erbse published a selection of the Burney 86 scholia in his *Scholia Vetera in Iliadem*.  The text of Erbse's edition has been made available by the WordHoard project.  The book 8 selections are included in the `reference` directory in a readable HTML format.
