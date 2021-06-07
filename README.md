@@ -7,7 +7,6 @@ folio [73 recto](http://www.homermultitext.org/ict2/?urn=urn:cite2:citebl:burney
 
 
 
-
 ## URNs: quick reference
 
 
