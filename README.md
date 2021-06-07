@@ -6,7 +6,6 @@ folio [73 recto](http://www.homermultitext.org/ict2/?urn=urn:cite2:citebl:burney
 [![73 recto](http://www.homermultitext.org/iipsrv?OBJ=IIP,1.0&FIF=/project/homer/pyramidal/deepzoom/citebl/burney86imgs/v1/burney_ms_86_f073r.tif&RGN=0.01709,0.003510,0.9656,0.9921&WID=200&CVT=JPEG)](http://www.homermultitext.org/ict2/?urn=urn:cite2:citebl:burney86imgs.v1:burney_ms_86_f073r)
 
 
-
 ## URNs: quick reference
 
 
