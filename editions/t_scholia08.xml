@@ -20,7 +20,6 @@
     <group n="8">
       <text n="burney86">
         <body>
-
           <div n="73r_1" type="scholion">
             <div n="lemma">
                <p>κροκόπεπλος</p>
@@ -34,22 +33,22 @@
          </div>
 
         </body>
-    </text>
+      </text>
 
-    <text n="burney86im">
-      <body>
-      <div n="dummy" type="scholion">
-        <div n="lemma">
-           <p/>
-        </div>
-        <div n="ref">
-           <p>urn:cts:greekLit:tlg0012.tlg001.burney86:8.ILIADLINE</p>
-        </div>
-        <div n="comment">
-           <p>DIPLOMATIC TEXT OF SCHOLION</p>
-        </div>
-     </div>
-    </body>
+      <text n="burney86im">
+        <body>
+        <div n="dummy" type="scholion">
+          <div n="lemma">
+            <p/>
+          </div>
+          <div n="ref">
+            <p>urn:cts:greekLit:tlg0012.tlg001.burney86:8.ILIADLINE</p>
+          </div>
+          <div n="comment">
+            <p>DIPLOMATIC TEXT OF SCHOLION</p>
+          </div>
+      </div>
+        </body>
       </text>
 
       <text n="burney86int">
@@ -68,6 +67,21 @@
         </body>
       </text>
 
-</group>
-</text>
+      <text n="burney86il">
+        <body>
+          <div n="73r_1" type="scholion">
+            <div n="lemma">
+               <p/>
+            </div>
+            <div n="ref">
+               <p>urn:cts:greekLit:tlg0012.tlg001.burney86:8.2@τερπικέραυνος</p>
+            </div>
+            <div n="comment">
+               <p>ὁ τοῖς κεραυνοῖς τρέπων τοὺς ἐναντίους:</p>
+            </div>
+         </div>
+        </body>
+      </text>
+    </group>
+  </text>
 </TEI>
