@@ -10,7 +10,7 @@ repo = repository(reporoot)
 
 ## CATALOGING CHECKS: (works in notebook)
 cites = citation_df(repo)
-filesmatch(trepo, cites)
+filesmatch(repo, cites)
 
 # ... document other functions listing discrepancies
 
