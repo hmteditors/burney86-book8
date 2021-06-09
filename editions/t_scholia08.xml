@@ -5,7 +5,7 @@
     <fileDesc>
       <titleStmt>
         <title>Scholia to British Library, Burney 86</title>
-        <editor>Natalie Dimattia</editor>
+        <editor>Natalie DiMattia</editor>
         <editor>Augusta Holyfield</editor>
       </titleStmt>
       <publicationStmt>
@@ -261,6 +261,62 @@
             <div n="comment">
                <p>ὁ τοῖς κεραυνοῖς τρέπων τοὺς ἐναντίους:</p>
             </div>
+         </div>
+         <div n="73r_2" type="scholion">
+            <div n="lemma">
+               <p/>
+            </div>
+
+            <div n="ref">
+               <p>urn:cts:greekLit:tlg0012.tlg001.burney86:8.9@ὄφρα</p>
+            </div>
+            <div n="comment">
+               <p>σπεύδει γὰρ ἐξαγαγεῖν <persName n="urn:cite2:hmt:pers.v1:pers158">Πάτροκλον</persName> καὶ τιμῆσαι <persName n="urn:cite2:hmt:pers.v1:pers1">Ἀχιλλέα</persName></p>
+            </div>
+         </div>
+         <div n="73r_3" type="scholion">
+            <div n="lemma">
+               <p/>
+            </div>
+            <div n="ref">
+               <p>urn:cts:greekLit:tlg0012.tlg001.burney86:8.10@ἀπάνευθε</p>
+            </div>
+            <div n="comment">
+               <p><persName n="urn:cite2:hmt:pers.v1:pers21"><choice><abbr>Ἀριστοφα</abbr><expan>Ἀριστοφάνης</expan></choice></persName> <q>ἀπάτερθε</q> χωρὶς ἐμοῦ δίχα ἐμῆς ἐπιτροπῆς:</p>
+            </div>
+         </div>
+         <div n="73r_4" type="scholion">
+            <div n="lemma">
+               <p/>
+            </div>
+            <div n="ref">
+               <p>urn:cts:greekLit:tlg0012.tlg001.burney86:8.11@Τρώεσσιν</p>
+            </div>
+            <div n="comment">
+               <p>τὸ κοινὸν οὐ λυπεῖ</p>
+            </div>
+         </div>
+         <div n="73r_5" type="scholion">
+            <div n="lemma">
+               <p/>
+            </div>
+            <div n="ref">
+               <p>urn:cts:greekLit:tlg0012.tlg001.burney86:8.12@πληγεὶς</p>
+            </div>
+            <div n="comment">
+               <p>ἄμεινον ὑποστίζειν εἰς τὸ πληγείς: καὶ ἔστιν ἀντὶ κεραυνωθείς: καὶ <cit><ref type="urn">urn:cts:greekLit:tlg0012.tlg001:8.455</ref><q>οὐκ ἂν ἐφ' ὑμετέρων ὀχέων πληγέντε κεραυνῷ</q></cit></p>
+            </div>
+          </div>
+          <div n="73r_6" type="scholion">
+            <div n="lemma">
+               <p/>
+            </div>
+            <div n="ref">
+               <p>urn:cts:greekLit:tlg0012.tlg001.burney86:8.13@μιν</p>
+            </div>
+            <div n="comment">
+               <p>τὸ ἤ ἀντὶ τοῦ ἀλλά:</p>
+          </div>
          </div>
         </body>
       </text>
