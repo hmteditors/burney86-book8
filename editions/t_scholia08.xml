@@ -239,7 +239,7 @@
                <p>ὀψὲ δὲ δὴ μετέειπε</p>
             </div>
             <div n="ref">
-               <p>urn:cts:greekLit:tlg0012.tlg001.burney86:8.30@μετέειπε</p>
+               <p>urn:cts:greekLit:tlg0012.tlg001.burney86:8.30@δὲ</p>
             </div>
             <div n="comment">
                <p>πιθανῶς οὐχὶ <persName n="urn:cite2:hmt:pers.v1:pers116">Ἥρα</persName> λέγει: ἐξεκαύθη γὰρ ἂν μεγάλη ἔρις: εἰωθυίας ἀεὶ πρὸς τὸν Δία ἀντιλέγειν: <persName>Ἀθηνᾶ</persName> δὲ μετὰ αἰδοῦς τῷ <choice><abbr>πρὶ</abbr><expan>πατρὶ</expan></choice> διαλέγεται μετριώτερον: οὐχ ὡς <persName n="urn:cite2:hmt:pers.v1:pers116">Ἥρα</persName> φθεγγομένη: ἄλλως τε καὶ τοῖς προοιμίοις αὐτὸν ἐξαίρει: καὶ τὰ μὲν κελευσθέντα φησὶν ἀποπληροῦν: ὑποθήκης δὲ ἀξιοῖ μὴ φθονέσαι: καὶ ταῦτα οὐχ ἵν' αὐτῷ ἐμποδίσῃ: ἀλλ' ὅπως μὴ πάντες ἀπόλωνται:</p>
@@ -330,8 +330,19 @@
             </div>
          </div>
 
+         <div n="74r_1" type="scholion">
+            <div n="lemma">
+               <p><placeName n="urn:cite2:hmt:place.v1:place89">Ἴδην</placeName> δ' ἵκανεν <placeName n="urn:cite2:hmt:place.v1:place276">Γάργαρον</placeName></p>
+            </div>
+            <div n="ref">
+               <p>urn:cts:greekLit:tlg0012.tlg001.burney86:8.47@Ἴδην</p>
+            </div>
+            <div n="comment">
+               <p><placeName n="urn:cite2:hmt:place.v1:place89">Ἴδην</placeName> <placeName n="urn:cite2:hmt:place.v1:place276">Γάργαρον</placeName>: ἀντὶ τοῦ εἰς <placeName n="urn:cite2:hmt:place.v1:place276">Γάργαρον</placeName> <placeName n="urn:cite2:hmt:place.v1:place89">Ἴδης</placeName>: ὡς <cit><ref type="urn">urn:cts:greekLit:tlg0012.tlg002:8.362-8.363</ref><q>ἡ δ' ἄρα <placeName n="urn:cite2:hmt:place.v1:place98">Κύπρον</placeName> ἵκανε ἐς <placeName n="urn:cite2:hmt:place.v1:place429">Πάφον</placeName></q></cit> ἔστι δὲ καὶ πόλις <placeName n="urn:cite2:hmt:place.v1:place276">Γάργαρος</placeName>⁑</p>
+            </div>
+         </div>
 
-      
+
         </body>
       </text>
 
