@@ -27,8 +27,9 @@ sdse = surfaceDse(repo, surface)
 ## DSE ACCURACY (works in notebook)
 row = sdse[1, :]
 diplnodetext(repo, row.passage)
-catalog = textcatalog_df(repo)
-title 	= worktitle(catalog, row.passage)
+textcatalog = textcatalog_df(repo)
+title = worktitle(textcatalog, row.passage)
+
 
 ## ORTHOGRAPHY (works in notebook)
 textconfig = citation_df(repo)
