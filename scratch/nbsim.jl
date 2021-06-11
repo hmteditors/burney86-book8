@@ -1,6 +1,7 @@
 # Simulate what happens in the Pluto validating notebook.
 using EditorsRepo
 using CitableText
+using CitableCorpus
 using CitableObject
 using ManuscriptOrthography
 using Orthography
@@ -16,7 +17,7 @@ filesmatch(repo, cites)
 
 ## SURFACES FOR MENU (works in notebook)
 surfs = surfaces(repo)
-surface = surfs[1]
+surface = surfs[2]
 
 
 ## DSE COMPLETENESS (works in notebook)
@@ -26,6 +27,9 @@ sdse = surfaceDse(repo, surface)
 ## DSE ACCURACY (works in notebook)
 row = sdse[1, :]
 diplnodetext(repo, row.passage)
+textcatalog = textcatalog_df(repo)
+title = worktitle(textcatalog, row.passage)
+
 
 ## ORTHOGRAPHY (works in notebook)
 textconfig = citation_df(repo)
