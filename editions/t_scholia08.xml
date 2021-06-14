@@ -491,10 +491,153 @@
                <p>ῥέπε δ' αἴσιμον ἦμαρ <rs n="urn:cite2:hmt:place.v1:place96" type="ethnic">Ἀχαιῶν</rs></p>
             </div>
             <div n="ref">
-               <p>urn:cts:greekLit:tlg0012.tlg001.burney86:872.@ῥέπε</p>
+               <p>urn:cts:greekLit:tlg0012.tlg001.burney86:8.72@ῥέπε</p>
             </div>
             <div n="comment">
                <p>οὐκ ἄρα φασίν ἐχαρίσατο τῇ <persName n="urn:cite2:hmt:pers.v1:pers19">Θέτιδι</persName> εἰ μοιρίδιον ἦν: φαμὲν δὲ ὅτι εἰς ἐπίτασιν <persName n="urn:cite2:hmt:pers.v1:pers1033">Μοίρας</persName> καὶ <persName n="urn:cite2:hmt:pers.v1:pers8">Δία</persName> ὁπλίζει κατ' <rs n="urn:cite2:hmt:place.v1:place96" type="ethnic">Ἀχαιῶν</rs>: ὅτι δισσὸν τὸ τῆς <persName n="urn:cite2:hmt:pers.v1:pers1033">Μοίρας</persName>⁑</p>
+            </div>
+         </div>
+
+         <div n="74v_1" type="scholion">
+            <div n="lemma">
+               <p>αἱ μὲν <rs>Ἀχαιῶν</rs> κῆρες</p>
+            </div>
+            <div n="ref">
+               <p>urn:cts:greekLit:tlg0012.tlg001.burney86:8.73@αἱ</p>
+            </div>
+            <div n="comment">
+               <p>ἀπὸ μὲν τοῦ ζυγοῦ. τὸ μέγεθος τοῦ ταλαντεύοντος δηλοῖ: ἐπειδὴ δὲ τὰ ἐπίγεια θνητά δυστυχῆ. πλησιάζει τῇ γῇ: τὰ δὲ εὐτυχῆ: μετεώρῳ πλάστιγγι ἕπεται: <cit><ref type="urn">urn:cts:greekLit:tlg0012.tlg001:8.70</ref><q>ἐν δ' ἐτίθει δύο κῆρε</q></cit>: αἱ μὲν <rs n="urn:cite2:hmt:place.v1:place96" type="ethnic">Ἀχαιῶν</rs> κῆρες ὡς τὸ <cit><ref type="urn">urn:cts:greekLit:tlg0012.tlg002:13.109-13.110</ref><q>δύο δέ τέ οἱ θύραι εἰσίν: αἱ μὲν. πρὸς <persName n="urn:cite2:hmt:pers.v1:pers599">Βορέαο</persName></q></cit> κῆρ δὲ παρὰ κῆαι: διὰ πυρὸς γὰρ ἔθαπτον: οἱ δὲ παρὰ τὸν κηρόν: ἐντετυπῶσθαι γὰρ αὐτῇ καθάπερ ἐν κηρῷ τὰ πράγματα⁑</p>
+            </div>
+         </div>
+
+         <div n="74v_2" type="scholion">
+            <div n="lemma">
+               <p>ἑζέσθην</p>
+            </div>
+            <div n="ref">
+               <p>urn:cts:greekLit:tlg0012.tlg001.burney86:8.74@ἑζέσθην</p>
+            </div>
+            <div n="comment">
+               <p>ἀντὶ τοῦ ἕζεσθεν, ὡς <cit><ref type="urn">urn:cts:greekLit:tlg0012.tlg001:3.1</ref><q>κόσμηθεν</q></cit>: ὅμοιον δέ ἐστιν αὐτῷ, καὶ τὸ <cit><ref type="urn">urn:cts:greekLit:tlg0012.tlg001:4.146</ref><q>μιάνθην αἵματι μηροί</q></cit>⁑</p>
+            </div>
+         </div>
+
+         <div n="74v_3" type="scholion">
+            <div n="lemma">
+               <p>δαιόμενον δέ σέλας</p>
+            </div>
+            <div n="ref">
+               <p>urn:cts:greekLit:tlg0012.tlg001.burney86:8.75@δαιόμενον</p>
+            </div>
+            <div n="comment">
+               <p>τὸ σέλας δηλοῖ τὴν ἔλαμψιν: βουλόμενος οὖν εἰπεῖν ὡς οὐκ ἦν ἀστραπὴ τὸ γινόμενον ἀλλὰ κεραυνὸς μετὰ τὴν βροντὴν, προσέθηκε τὸ δαιόμενον⁑</p>
+            </div>
+         </div>
+
+         <div n="74v_4" type="scholion">
+            <div n="lemma">
+               <p>καὶ πάντας ὑπὸ χλωρὸν δέος εἷλε</p>
+            </div>
+            <div n="ref">
+               <p>urn:cts:greekLit:tlg0012.tlg001.burney86:8.77@χλωρὸν</p>
+            </div>
+            <div n="comment">
+               <p>δαιμονίαν ὑποφαίνει τῶν <rs n="urn:cite2:hmt:place.v1:place96" type="ethnic">Ἀχαιῶν</rs> τὴν φυγὴν αὔξων αὐτούς: ὅπως μὴ μένοντος ἑτέρου. αἰσχύνοιτο ἄλλος τις: κατ' αὐτῶν δὲ φέρεται τὸ πῦρ: οὐ γὰρ <rs n="urn:cite2:hmt:place.v1:place3" type="ethnic">Ἑλληνικὸς</rs> ὁ <persName n="urn:cite2:hmt:pers.v1:pers8">Ζεύς</persName>⁑</p>
+            </div>
+         </div>
+
+         <div n="74v_5" type="scholion">
+            <div n="lemma">
+               <p>ἔνθ' οὔτ' <persName n="urn:cite2:hmt:pers.v1:pers287">Ἰδομενεὺς</persName> τλῆ μίμνειν</p>
+            </div>
+            <div n="ref">
+               <p>urn:cts:greekLit:tlg0012.tlg001.burney86:8.78@ἔνθ'</p>
+            </div>
+            <div n="comment">
+               <p>ὡς φιλέλλην παρατρέχει τὰ δυσχερῆ: ἐπ' ὀλίγα πρόσωπα τὴν ἧτγαν φέρων: καὶ ἡ ἐκλογὴ δὲ τῶν ὀνομάτων: θεραπεύοντός ἐστι τὴν ἧτταν: οὐ γὰρ εἶπεν ἔφυγεν, ἀλλὰ τλῆ μίμνειν: ἐκφαίνει γὰρ τὸν βουλόμενον κακοῖς ἀγωνίζεσθαι ἐπηρεαζόμενον δὲ ὑπὸ τοῦ <persName n="urn:cite2:hmt:pers.v1:pers8">Διός</persName>⁑</p>
+            </div>
+         </div>
+
+         <div n="74v_6" type="scholion">
+            <div n="lemma">
+               <p><persName n="urn:cite2:hmt:pers.v1:pers117">Νέστωρ</persName> οἶος ἔμιμνε</p>
+            </div>
+            <div n="ref">
+               <p>urn:cts:greekLit:tlg0012.tlg001.burney86:8.80@Νέστωρ</p>
+            </div>
+            <div n="comment">
+               <p>οὐκ εἰσάγει αὐτὸν ἀναιροῦντα διὰ τὸ ἀπίθανον: ἀλλ' οὐδὲ πάσχοντά τι διὰ τὴν ἐξαίρετον φυλακὴν περὶ αὐτόν: οὐ τυχόντα δὲ δι' αὐτοῦ ἐκίνησεν ἡμῖν ἀγῶνα: ἐπεὶ δὲ ἄπιστον ἦν τοσούτων νέων φευγόντων μόνον μεῖναι τὸν γέροντα: ὥσπερ ἐν ἀπολογίας μέρει ἐπιφέρει τὸ <cit><ref type="urn">urn:cts:greekLit:tlg0012.tlg001:8.81</ref><q>οὔτι ἑκών:  ἀλλ' ἵππος ἐτείρετο</q></cit>: οὖρος δὲ εὐθύντωρ ἢ φύλαξ⁑</p>
+            </div>
+         </div>
+
+         <div n="74v_7" type="scholion">
+            <div n="lemma">
+               <p>τὸν βάλεν ἰῷ δῖος <persName n="urn:cite2:hmt:pers.v1:pers129">Ἀλέξανδρος</persName></p>
+            </div>
+            <div n="ref">
+               <p>urn:cts:greekLit:tlg0012.tlg001.burney86:8.81@βάλεν</p>
+            </div>
+            <div n="comment">
+               <p>καὶ πόρρως πολεμεῖ καὶ οὐκ ἄνδρα τοξεύει ἀλλ' ἵππον γέροντος βάλλει: καὶ συμπλέκεται οὗτος πάντων φευγόντων⁑</p>
+            </div>
+         </div>
+         <div n="74v_8" type="scholion">
+            <div n="lemma">
+               <p>ὅθι τε πρῶται τρίχες</p>
+            </div>
+            <div n="ref">
+               <p>urn:cts:greekLit:tlg0012.tlg001.burney86:8.83@ὅθι</p>
+            </div>
+            <div n="comment">
+               <p>πρῶται. ἀντὶ τοῦ ἄκραι: θερμὸς δὲ ὁ περὶ τὴν μήνιγγα τόπος: διὸ προφύει τρίχας⁑</p>
+            </div>
+         </div>
+
+         <div n="74v_9" type="scholion">
+            <div n="lemma">
+               <p>παρηορίας ἀπέτεμνε</p>
+            </div>
+            <div n="ref">
+               <p>urn:cts:greekLit:tlg0012.tlg001.burney86:8.87@παρηορίας</p>
+            </div>
+            <div n="comment">
+               <p>διὰ τοῦ ἀπέτεμνε τὸ νωθρὸν τοῦ γήρως δηλοῖ: ἐπὶ δὲ <persName n="urn:cite2:hmt:pers.v1:pers217">Αὐτομέδοντος</persName> ῥᾳδίως ἐνεργήσαντός: φησιν <cit><ref type="urn">urn:cts:greekLit:tlg0012.tlg001:16.474</ref><q>ἀΐξας ἀπέκοψε παρήορον</q></cit>: γέροντα δὲ εἶπεν: ὄφρ' ὁ γέρων ἢ δι' οἶκτον ἢ πᾶσα τῶν ἑλλήνων ἡ εὐχή: ἐν ἀγωνίᾳ δὲ καθιστὰς τὸν ἀκροατὴν. καὶ τὸν δεινὸν <persName n="urn:cite2:hmt:pers.v1:pers172">Ἕκτορα</persName> αὐτῷ ἐπάγει⁑</p>
+            </div>
+         </div>
+
+         <div n="74v_10" type="scholion">
+            <div n="lemma">
+               <p>εἰ μὴ ἄρ' ὀξὺ νόησε</p>
+            </div>
+            <div n="ref">
+               <p>urn:cts:greekLit:tlg0012.tlg001.burney86:8.91@μὴ</p>
+            </div>
+            <div n="comment">
+               <p>εἰκότως <persName n="urn:cite2:hmt:pers.v1:pers215">Διομήδης</persName> τὸν πρεσβύτην κινδυνεύοντα ὁρᾷ: ὡς ἀναχωρῶν ἔσχατος: θελήσας γὰρ μονομαχῆσαι: ἀποσφαλεὶς δὲ τῷ κλήρῳ: νῦν καὶ τοῦ καιροῦ μὴ συγχωροῦντος, πειρᾶται πολεμεῖν: βοηθεῖ δὲ τῷ <persName n="urn:cite2:hmt:pers.v1:pers117">Νέστορι</persName> διὰ τὸ τῶν ἠθῶν παραπλήσιον: καὶ ἐν τῇ νυκτεγερσίᾳ οὖν, δυσχεραίνει κάμνοντα ὁρῶν παρ' ἡλικίαν τὸν <persName n="urn:cite2:hmt:pers.v1:pers117">Νέστορα</persName> καί φησι: <cit><ref type="urn">urn:cts:greekLit:tlg0012.tlg001:10.164</ref><q>σχέτλιός ἐσσι γεραιέ</q></cit>: καὶ ἐπὶ τὴν κατασκοπὴν ἐξιὼν παρὰ Θρασυμήδους ὅπλα λαμβάνει: <cit><ref type="urn">urn:cts:greekLit:tlg0012.tlg001:10.255</ref><q><persName n="urn:cite2:hmt:pers.v1:pers215">Τυδείδῃ</persName>: μὲν δῶκε</q></cit>: καὶ ὁ <persName n="urn:cite2:hmt:pers.v1:pers117">Νέστωρ</persName> φησὶ πρὸς αὐτόν: <cit><ref type="urn">urn:cts:greekLit:tlg0012.tlg001:10.234</ref><q><persName n="urn:cite2:hmt:pers.v1:pers215">Τυδείδη Διόμηδες</persName> ἐμῷ κεχαρισμένε θυμῷ</q></cit> ⁑</p>
+            </div>
+         </div>
+
+         <div n="74v_11" type="scholion">
+            <div n="lemma">
+               <p>σμερδαλέον δ' ἐβόησεν ἐποτρύνων <persName n="urn:cite2:hmt:pers.v1:pers118">Ὀδυσῆα</persName></p>
+            </div>
+            <div n="ref">
+               <p>urn:cts:greekLit:tlg0012.tlg001.burney86:8.92@σμερδαλέον</p>
+            </div>
+            <div n="comment">
+               <p>ἐν σχήματι ἐδήλωσεν ὡς καὶ <persName n="urn:cite2:hmt:pers.v1:pers118"><choice><abbr>Ὀδυ</abbr><expan>Ὀδυσσεὺς</expan></choice></persName> ἔφυγεν ἄνω μὴ μνησθεὶς αὐτοῦ ἀεὶ δὲ ἀσφαλὴς <persName n="urn:cite2:hmt:pers.v1:pers215">Διομήδης</persName>. καὶ ἐν τῇ κατασκοπῇ <cit><ref type="urn">urn:cts:greekLit:tlg0012.tlg001:10.224</ref><q>σύν τε δύ' ἐρχομένῳ</q></cit>:<persName n="urn:cite2:hmt:pers.v1:pers118">Ὀδυσσέα</persName> τε καλεῖ ὡς φίλον καὶ ἑταῖρον <persName n="urn:cite2:hmt:pers.v1:pers117">Νέστορι</persName>: <persName n="urn:cite2:hmt:pers.v1:pers117">Νέστωρ</persName> γοῦν φησι: <cit><ref type="urn">urn:cts:greekLit:tlg0012.tlg002:3.126-3.127</ref><q>ἔνθ' ἤτοι μὲν ἐγὼ καὶ δῖος <persName n="urn:cite2:hmt:pers.v1:pers118"><choice><abbr>Ὀδυ</abbr><expan>Ὀδυσσεύς</expan></choice></persName> οὔτε ποτ' εἰν ἀγορῇ δίχ' ἐβάζομεν</q></cit> ⁑</p>
+            </div>
+         </div>
+
+         <div n="74v_12" type="scholion">
+            <div n="lemma">
+               <p>οὐδ' ἐσάκουσεν</p>
+            </div>
+            <div n="ref">
+               <p>urn:cts:greekLit:tlg0012.tlg001.burney86:8.97@ἐσάκουσεν</p>
+            </div>
+            <div n="comment">
+               <p>οὐκ ᾔσθετο ὑπὸ τοῦ θορύβου: ἢ οὐκ ἐπείσθη διὰ τὸν καιρόν: φεύγει γὰρ σὺν <persName n="urn:cite2:hmt:pers.v1:pers127"><persName n="urn:cite2:hmt:pers.v1:pers281">Αἴαντι</persName></persName> καὶ θεομαχεῖν οὐ θέλει <cit><ref type="urn">urn:cts:greekLit:tlg0033.tlg003:9.27</ref><q>ἐν γὰρ δαιμονίοις φόβοις, φεύγουσι καὶ παῖδες θεῶν</q></cit>: πῶς δὲ <w>δ<unclear>ειλ</unclear>ὸς</w> ὁ μετὰ πάντας φεύγων, οὐ γὰρ ἂν <persName n="urn:cite2:hmt:pers.v1:pers215">Διομήδης</persName> τοῦτον μόνον ἐκάλει: δειλὸν δὲ αὐτόν φασι καὶ ἀπὸ τοῦ ἔσχατον ἀναστῆναι  καὶ <persName n="urn:cite2:hmt:pers.v1:pers474">Δόλωνα</persName> ἰδεῖν  καὶ <persName n="urn:cite2:hmt:pers.v1:pers452">Ῥῆσον</persName> μὴ φονεῦσαι: καὶ τὴν μάστιγα μὴ ἑλέσθαι⁑</p>
             </div>
          </div>
 
@@ -566,6 +709,42 @@
             </div>
             <div n="comment">
                <p>διακόψαι: ὅθεν καὶ κέρμα τὸ εἰς μικρὰ διακεκομμένον: τὸ δὲ ἐμὸν ἔπος τὴν ἐμὴν ἐπαγγελίαν ἣν ὑπεσχόμην Θέτιδι: πρόθυμος δέ ἐστι δεικνύς οἵους δεῖ περὶ τὰς ὑποσχέσεις εἶναι⁑</p>
+            </div>
+         </div>
+
+         <div n="74v_1" type="scholion">
+            <div n="lemma">
+               <p>πολυμήχαν' <persName n="urn:cite2:hmt:pers.v1:pers118"><choice><abbr>Ὀδυ</abbr><expan>Ὀδυσσεῦ</expan></choice></persName></p>
+            </div>
+            <div n="ref">
+               <p>urn:cts:greekLit:tlg0012.tlg001.burney86:8.93@πολυμήχαν'</p>
+            </div>
+            <div n="comment">
+               <p>πρὸς ἐπιστροφὴν τὸ ἐπίθετον: ἔστι δὲ γεωργός: <cit><ref type="urn">urn:cts:greekLit:tlg0012.tlg002:18.368</ref><q>ἔνθα ποίῃ δρέπανον μέν</q></cit>. κυβερνήτης <cit><ref type="urn">urn:cts:greekLit:tlg0012.tlg002:10.32</ref><q>αἰεὶ γὰρ πόδα νηός</q></cit>: τέκτων ἀπὸ τῆς κλίνης καὶ τοῦ δουρείου ἵππου: ναυπηγὸς ἀπὸ τῆς σχεδίας κυνηγὸς ἀπὸ τοῦ <placeName n="urn:cite2:hmt:place.v1:place37">Παρνασοῦ</placeName>: μάντις, <cit><ref type="urn">urn:cts:greekLit:tlg0012.tlg002:20.100</ref><q>φήμην τίς μοι φάσθω</q></cit>: μάγειρος, <cit><ref type="urn">urn:cts:greekLit:tlg0012.tlg002:15.323</ref><q>δαιτρεῦσαί τε καὶ ὀπτῆσαι</q></cit>: ἰατρός: <cit><ref type="urn">urn:cts:greekLit:tlg0012.tlg002:1.261-1.262</ref><q>ὄφρα εἴη ἰοὺς χρίεσθαι</q></cit>: μουσικός. <cit><ref type="urn">urn:cts:greekLit:tlg0012.tlg002:11.368</ref><q>ὡς ὅτ' ἀοιδός</q></cit>: πύκτης: <cit><ref type="urn">urn:cts:greekLit:tlg0012.tlg001:23.634</ref><q>πὺξ μὲν ἐνίκησα <persName n="urn:cite2:hmt:pers.v1:pers609">Κλυτομήδεα</persName></q></cit>: παλαιστής: <cit><ref type="urn">urn:cts:greekLit:tlg0012.tlg001:23.635</ref><q><persName n="urn:cite2:hmt:pers.v1:pers610">Ἀγκαῖον</persName> δὲ πάλῃ <persName n="urn:cite2:hmt:pers.v1:pers1002">Πλευρώνιον</persName></q></cit>: δισκευτὴς παρὰ <rs type="ethnic" n="urn:cite2:hmt:place.v1:place164">Φαίαξι</rs> τοξότης: <cit><ref type="urn">urn:cts:greekLit:tlg0012.tlg002:8.215</ref><q>εὖ μὲν τόξον οἶδα</q></cit> ἀκοντιστής: <cit><ref type="urn">urn:cts:greekLit:tlg0012.tlg002:8.229</ref><q>δουρὶ δ' ἀκοντίζω</q></cit> ῥήτωρ: <cit><ref type="urn">urn:cts:greekLit:tlg0012.tlg001:3.222</ref><q>καὶ ἔπεα νιφάδες ιν ἐοικότα</q></cit>: ἀστρολόγος. <cit><ref type="urn">urn:cts:greekLit:tlg0012.tlg002:5.272</ref><q><rs type="ethnic" n="urn:cite2:hmt:pers.v1:pers1002">Πληϊάδας</rs> θ' ὁρόωντι</q></cit>⁑</p>
+            </div>
+         </div>
+
+         <div n="74v_2" type="scholion">
+            <div n="lemma">
+               <p>κακὸς ὣς ἐν ὁμίλῳ</p>
+            </div>
+            <div n="ref">
+               <p>urn:cts:greekLit:tlg0012.tlg001.burney86:8.94@κακὸς</p>
+            </div>
+            <div n="comment">
+               <p>οὐ δειλὸν αὐτὸν καλεῖ: ἀλλὰ δειλοῦ ἀνδρὸς ἔργα ποιεῖν: | ὀλίγον δὲ διασταλτέον εἰς τὸ μετὰ νῶτα βαλών: ὡς φεύγουσι δειλοὶ ἐν θορύβῳ: ἢ πῇ φεύγεις ἐν ὁμίλῳ;⁑</p>
+            </div>
+         </div>
+
+         <div n="74v_3" type="scholion">
+            <div n="lemma">
+               <p>ἐν ὁμίλῳ: μήτις τοι φεύγοντι</p>
+            </div>
+            <div n="ref">
+               <p>urn:cts:greekLit:tlg0012.tlg001.burney86:8.94@ὁμίλῳ</p>
+            </div>
+            <div n="comment">
+               <p>περικέκοπται ὁ λόγος τὸν ἀγωνιῶντα ὑποφαίνων: ἀπὸ δὲ τοῦ εὐπρεποῦς καὶ συμφέροντος ἀναστέλλει τὴν φυγήν: αἰσχρότερον δὲ καὶ τοῦ ἀκοντίσαι τὸ πῆξαι⁑</p>
             </div>
          </div>
         </body>
@@ -781,6 +960,90 @@
             </div>
             <div n="comment">
                <p>ἀντὶ τοῦ ὅλαι: ὡς <cit><ref type="urn">urn:cts:greekLit:tlg0012.tlg001:23.135</ref><q>πάντα νέκυν καταείνυον</q></cit>: μία δὲ ἦν ἱππήλατος πύλη</p>
+            </div>
+         </div>
+
+         <div n="74v_1" type="scholion">
+            <div n="lemma">
+               <p/>
+            </div>
+            <div n="ref">
+               <p>urn:cts:greekLit:tlg0012.tlg001.burney86:8.81@ἐτείρετο</p>
+            </div>
+            <div n="comment">
+               <p>γράφεται καὶ ἐδάμνατο</p>
+            </div>
+         </div>
+
+         <div n="74v_2" type="scholion">
+            <div n="lemma">
+               <p/>
+            </div>
+            <div n="ref">
+               <p>urn:cts:greekLit:tlg0012.tlg001.burney86:8.84@καίριόν</p>
+            </div>
+            <div n="comment">
+               <p>ἐπικίνδυνον:</p>
+            </div>
+         </div>
+
+         <div n="74v_3" type="scholion">
+            <div n="lemma">
+               <p/>
+            </div>
+            <div n="ref">
+               <p>urn:cts:greekLit:tlg0012.tlg001.burney86:8.85@ἀλγήσας</p>
+            </div>
+            <div n="comment">
+               <p>γραφικῶς εἶπε πάντα</p>
+            </div>
+         </div>
+
+         <div n="74v_4" type="scholion">
+            <div n="lemma">
+               <p/>
+            </div>
+            <div n="ref">
+               <p>urn:cts:greekLit:tlg0012.tlg001.burney86:8.85@βέλος</p>
+            </div>
+            <div n="comment">
+               <p>ὁ δέ ἀντὶ τοῦ γάρ: βέλος γάρ</p>
+            </div>
+         </div>
+
+         <div n="74v_5" type="scholion">
+            <div n="lemma">
+               <p/>
+            </div>
+            <div n="ref">
+               <p>urn:cts:greekLit:tlg0012.tlg001.burney86:8.89@ἀν'</p>
+            </div>
+            <div n="comment">
+               <p>παρὰ τὴν συμβολήν</p>
+            </div>
+         </div>
+
+         <div n="74v_6" type="scholion">
+            <div n="lemma">
+               <p/>
+            </div>
+            <div n="ref">
+               <p>urn:cts:greekLit:tlg0012.tlg001.burney86:8.91@ὀξὺ</p>
+            </div>
+            <div n="comment">
+               <p>εἰκότως <persName n="urn:cite2:hmt:pers.v1:pers215">Διομήδης</persName> αὐτὸν σῴζει: ἐραστὴς γὰρ συνέσεως</p>
+            </div>
+         </div>
+
+         <div n="74v_7" type="scholion">
+            <div n="lemma">
+               <p/>
+            </div>
+            <div n="ref">
+               <p>urn:cts:greekLit:tlg0012.tlg001.burney86:8.96@ἄγριον</p>
+            </div>
+            <div n="comment">
+               <p>ἄγριον τὸν βάρβαρον καὶ <cit><ref type="urn">urn:cts:greekLit:tlg0012.tlg002:8.294</ref><q>ἀγριοφώνους</q></cit> αὐτούς φασιν</p>
             </div>
          </div>
         </body>
