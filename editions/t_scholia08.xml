@@ -641,6 +641,42 @@
             </div>
          </div>
 
+         <div n="75r_1" type="scholion">
+            <div n="lemma">
+               <p>ἠπεδανὸς θεράπων βραδέες δέ τοι ἵπποι</p>
+            </div>
+            <div n="ref">
+               <p>urn:cts:greekLit:tlg0012.tlg001.burney86:8.104@ἠπεδανὸς</p>
+            </div>
+            <div n="comment">
+               <p>εἰκότως ὅλα συνήγαγε τὰ κακά: ὅπως πείσῃ τῷ ἰδίῳ ἐπιβῆναι ἅρματι τὸν εἰπόντα: <cit><ref type="urn">urn:cts:greekLit:tlg0033.tlg003:4.306</ref><q>ὃς δέ κ' ἀνὴρ ἀπὸ ὦν ὀχέων</q></cit>: εὖ δὲ τὸ μὴ τὸν <persName n="urn:cite2:hmt:pers.v1:pers117">Νέστορα</persName> ταῦτα προβαλέσθαι εἰς τὸ τυχεῖν βοηθείας: ἐγκώμιον δὲ <persName n="urn:cite2:hmt:pers.v1:pers117">Νέστορος</persName> ἔχει ὁ λόγος ὃς οὐδὲ τῷ γήραι ἐπέτραπεν ἑαυτόν⁑</p>
+            </div>
+         </div>
+
+         <div n="75r_2" type="scholion">
+            <div n="lemma">
+               <p>ἀλλ' ἄγ' ἐμῶν ὀχέων</p>
+            </div>
+            <div n="ref">
+               <p>urn:cts:greekLit:tlg0012.tlg001.burney86:8.105@ἐμῶν</p>
+            </div>
+            <div n="comment">
+               <p>ὑπογράφων ἄνω τὸ ἀσθενὲς τοῦ γέροντος, οὐδὲν περὶ τοῦ ἰδίου σθένους ἀνθυπήγαγεν: ἀλλ' ἐλπίδα αὐτῶ ὑπογράφει σωτηρίας διὰ τοῦ τάχους⁑</p>
+            </div>
+         </div>
+
+         <div n="75r_3" type="scholion">
+            <div n="lemma">
+               <p>οὕς ποτ' ἀπ' Αἰνείαν</p>
+            </div>
+            <div n="ref">
+               <p>urn:cts:greekLit:tlg0012.tlg001.burney86:8.108@ποτ'</p>
+            </div>
+            <div n="comment">
+               <p>ἠθικῶς τὸν χθὲς ἀνάγει χρόνον: καὶ <persName n="urn:cite2:hmt:pers.v1:pers600">Φιλοίτιος</persName> <cit><ref type="urn">urn:cts:greekLit:tlg0012.tlg002:22.290-22.291</ref><q>τοῦτό τοι ἀντὶ ποδὸς ξεινήϊον ὅν ποτ' ἔδωκας ἀντιθέῳ <persName n="urn:cite2:hmt:pers.v1:pers118">ὀδυσσῆϊ</persName></q></cit> ἅμα δὲ καὶ θαρσαλεώτερον ποιεῖ τὸν γέροντα ἡ <persName n="urn:cite2:hmt:pers.v1:pers142">Αἰνείου</persName> νίκη: τὸ δὲ ποτέ. ἀντὶ χθές: τὸ δὲ μήστωρε: τινὲς <rs type="waw">μήστωρα</rs>, ἐπὶ τοῦ <persName n="urn:cite2:hmt:pers.v1:pers142">Αἰνείου</persName> διὰ τὸ αὐξητικόν⁑</p>
+            </div>
+         </div>
+
 
 
         </body>
