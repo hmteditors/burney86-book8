@@ -789,6 +789,18 @@
             <p><choice><abbr>γρά</abbr><expan>γράφεται</expan></choice>καὶ πείθητε:</p>
           </div>
       </div>
+
+      <div n="75r_1" type="scholion">
+          <div n="lemma">
+            <p/>
+          </div>
+          <div n="ref">
+            <p>urn:cts:greekLit:tlg0012.tlg001.burney86:8.102@νέοι</p>
+          </div>
+          <div n="comment">
+            <p>ἀλλ' οὐ νῦν δι' ἐμέ:</p>
+          </div>
+      </div>
         </body>
       </text>
 
@@ -1176,6 +1188,116 @@
                <p>ἄγριον τὸν βάρβαρον καὶ <cit><ref type="urn">urn:cts:greekLit:tlg0012.tlg002:8.294</ref><q>ἀγριοφώνους</q></cit> αὐτούς φασιν</p>
             </div>
          </div>
+
+         <div n="75r_1" type="scholion">
+            <div n="lemma">
+               <p/>
+            </div>
+            <div n="ref">
+               <p>urn:cts:greekLit:tlg0012.tlg001.burney86:8.102@γέρον</p>
+            </div>
+            <div n="comment">
+               <p>τὰ μὲν πράγματα τάχιστα γέγονεν: ἡ δὲ τῶν λόγων σχολὴ ποιητική</p>
+            </div>
+         </div>
+
+         <div n="75r_2" type="scholion">
+            <div n="lemma">
+               <p/>
+            </div>
+            <div n="ref">
+               <p>urn:cts:greekLit:tlg0012.tlg001.burney86:8.103@βίη</p>
+            </div>
+            <div n="comment">
+               <p>πέπηγε γὰρ ἐν τῇ νεότητι: τέλος δὲ λύσεως, θάνατος:</p>
+            </div>
+         </div>
+
+         <div n="75r_3" type="scholion">
+            <div n="lemma">
+               <p/>
+            </div>
+            <div n="ref">
+               <p>urn:cts:greekLit:tlg0012.tlg001.burney86:8.104@ἠπεδανὸς</p>
+            </div>
+            <div n="comment">
+               <p>ὁ μὴ δυνάμενος ἐν τῷ πεδίῳ στῆναι διὰ τὸ ἀσθενές:</p>
+            </div>
+         </div>
+
+         <div n="75r_4" type="scholion">
+            <div n="lemma">
+               <p/>
+            </div>
+            <div n="ref">
+               <p>urn:cts:greekLit:tlg0012.tlg001.burney86:8.106@ἐπιστάμενοι</p>
+            </div>
+            <div n="comment">
+               <p>ἀντὶ τοῦ δυνάμενοι: <cit><ref type="urn">urn:cts:greekLit:tlg0012.tlg001:16.142</ref><q>ἐπίστατο πῆλαι <persName n="urn:cite2:hmt:pers.v1:pers1">Ἀχιλλεύς</persName></q></cit></p>
+            </div>
+         </div>
+
+         <div n="75r_5" type="scholion">
+            <div n="lemma">
+               <p/>
+            </div>
+            <div n="ref">
+               <p>urn:cts:greekLit:tlg0012.tlg001.burney86:8.107@κραιπνὰ</p>
+            </div>
+            <div n="comment">
+               <p>τοὺς δίχα ταράχου πάντῃ δεόντως δυναμένους φέρειν τοὺς ἐπιβάτας:</p>
+            </div>
+         </div>
+
+         <div n="75r_6" type="scholion">
+            <div n="lemma">
+               <p/>
+            </div>
+            <div n="ref">
+               <p>urn:cts:greekLit:tlg0012.tlg001.burney86:8.112@ἀπίθησε</p>
+            </div>
+            <div n="comment">
+               <p>τῷ καιρῷ πειθόμενος πάντα σιωπῇ πράσσει</p>
+            </div>
+         </div>
+
+         <div n="75r_7" type="scholion">
+            <div n="lemma">
+               <p/>
+            </div>
+            <div n="ref">
+               <p>urn:cts:greekLit:tlg0012.tlg001.burney86:8.116@Νέστωρ</p>
+            </div>
+            <div n="comment">
+               <p>σημειωτέον ὅτι καὶ πολεμισταὶ καὶ ἡνίοχοι οἱ πρώην βασιλεῖς:</p>
+            </div>
+         </div>
+
+         <div n="75r_8" type="scholion">
+            <div n="lemma">
+               <p/>
+            </div>
+            <div n="ref">
+               <p>urn:cts:greekLit:tlg0012.tlg001.burney86:8.124@πύκασε</p>
+            </div>
+            <div n="comment">
+               <p>ἐσκέπασε <cit><ref type="urn">urn:cts:greekLit:tlg0012.tlg001:16.551</ref><q>πυκάσασα ἓ αὐτήν</q></cit>:</p>
+            </div>
+         </div>
+
+         <div n="75r_9" type="scholion">
+            <div n="lemma">
+               <p/>
+            </div>
+            <div n="ref">
+               <p>urn:cts:greekLit:tlg0012.tlg001.burney86:8.126@ἡνίοχον</p>
+            </div>
+            <div n="comment">
+               <p>ἀνάλογον ἑαυτῷ ἡνίοχον θρασύν:</p>
+            </div>
+         </div>
+
+
         </body>
       </text>
     </group>
