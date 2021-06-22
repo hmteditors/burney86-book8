@@ -1369,7 +1369,7 @@
                <p>urn:cts:greekLit:tlg0012.tlg001.burney86:8.243@αὐτοὺς</p>
             </div>
             <div n="comment">
-               <p>ἐλεεινὸν ἡ παρ' ἐλπίδας ἀπόδοσις: πάλαι μὲν ἠυχόμεθα περὶ νίκης: νῦν δὲ περὶ σωρίας αἰτοῦμεν.⁑</p>
+               <p>ἐλεεινὸν ἡ παρ' ἐλπίδας ἀπόδοσις: πάλαι μὲν ἠυχόμεθα περὶ νίκης: νῦν δὲ περὶ <choice><abbr>σρίας</abbr><expan>σωτηρίας</expan></choice> αἰτοῦμεν.⁑</p>
             </div>
          </div>
 
@@ -1381,7 +1381,7 @@
                <p>urn:cts:greekLit:tlg0012.tlg001.burney86:8.247@αἰετὸν</p>
             </div>
             <div n="comment">
-               <p>οἱ μέν φασι τικτομένου τοῦ <persName n="urn:cite2:hmt:pers.v1:pers8">Διὸς</persName>, τεχθῆναι καὶ τὸν ἀετόν: οἱ δὲ καὶ ἐν τῇ γιγαντομαχίᾳ: αἴσιον τῷ <persName n="urn:cite2:hmt:pers.v1:pers8">Διῒ</persName> γενέσθαι: διὸ ἱερὸς αὐτοῦ ἐστιν: εἴρηται δὲ ἀετὸς παρὰ τὸ ἀεὶ ἐτεὸν αὐτὸν εἶναι: ὅ ἐστιν αἴσιον καὶ ἀληθῆ: τελειότατον δὲ πετεεινῶν. ἤτοι τὸν τελεστικώτατον ἐπεὶ <persName n="urn:cite2:hmt:pers.v1:pers8">Διός</persName> ἐστιν: ἢ τὸν μείζονα: ὁ δὲ νεβρὸς, τοὺς κατεπτηχότας δηλοῖ <rs n="urn:cite2:hmt:place.v1:place3" type="ethnic">Ἕλληνας</rs> καὶ ὁ κοινὸς βωμὸς. τὴν κοινὴν ἅπασιν ἀπὸ τοῦ <persName n="urn:cite2:hmt:pers.v1:pers8">Διὸς</persName> σωρίαν: ἄδειαν γὰρ τοῖς καταφεύγουσιν ὁ βωμὸς πορίζεται: ὅτι δὲ κοινὸς, καὶ τῷ πανομφαίῳ δηλοῖ: οἷον ἀπὸ πάσης φωνῆς καὶ γλώττης τετιμημένῳ: ὀμφὴ γὰρ ἡ φωνή⁑</p>
+               <p>οἱ μέν φασι τικτομένου τοῦ <persName n="urn:cite2:hmt:pers.v1:pers8">Διὸς</persName>, τεχθῆναι καὶ τὸν ἀετόν: οἱ δὲ καὶ ἐν τῇ γιγαντομαχίᾳ: αἴσιον τῷ <persName n="urn:cite2:hmt:pers.v1:pers8">Διῒ</persName> γενέσθαι: διὸ ἱερὸς αὐτοῦ ἐστιν: εἴρηται δὲ ἀετὸς παρὰ τὸ ἀεὶ ἐτεὸν αὐτὸν εἶναι: ὅ ἐστιν αἴσιον καὶ ἀληθῆ: τελειότατον δὲ πετεεινῶν. ἤτοι τὸν τελεστικώτατον ἐπεὶ <persName n="urn:cite2:hmt:pers.v1:pers8">Διός</persName> ἐστιν: ἢ τὸν μείζονα: ὁ δὲ νεβρὸς, τοὺς κατεπτηχότας δηλοῖ <rs n="urn:cite2:hmt:place.v1:place3" type="ethnic">Ἕλληνας</rs> καὶ ὁ κοινὸς βωμὸς. τὴν κοινὴν ἅπασιν ἀπὸ τοῦ <persName n="urn:cite2:hmt:pers.v1:pers8">Διὸς</persName> <choice><abbr>σρίαν</abbr><expan>σωτηρίαν</expan></choice>: ἄδειαν γὰρ τοῖς καταφεύγουσιν ὁ βωμὸς πορίζεται: ὅτι δὲ κοινὸς, καὶ τῷ πανομφαίῳ δηλοῖ: οἷον ἀπὸ πάσης φωνῆς καὶ γλώττης τετιμημένῳ: ὀμφὴ γὰρ ἡ φωνή⁑</p>
             </div>
          </div>
 
@@ -1619,7 +1619,7 @@
                <p>urn:cts:greekLit:tlg0012.tlg001.burney86:8.186@μάλα</p>
             </div>
             <div n="comment">
-               <p>οἰκονομικὸν καὶ εἰς σωρίαν τοῦ ἀνδρὸς τεῖνον εἴ γε καὶ τὰ ὅπλα αὐτοῦ δέχεται ὡς δηλοῖ ὁ <persName n="urn:cite2:hmt:pers.v1:pers8">Ζεύς</persName>: <cit><ref type="urn">urn:cts:greekLit:tlg0012.tlg001:17.207-17.208</ref><q>ὅ οἱ οὔτι μάχης ἐκνοστήσαντι δέξεται <persName n="urn:cite2:hmt:pers.v1:pers171">Ἀνδρομάχη</persName> κλυτὰ τεύχεα</q></cit>⁑</p>
+               <p>οἰκονομικὸν καὶ εἰς <choice><abbr>σρίαν</abbr><expan>σωτηρίαν</expan></choice> τοῦ ἀνδρὸς τεῖνον εἴ γε καὶ τὰ ὅπλα αὐτοῦ δέχεται ὡς δηλοῖ ὁ <persName n="urn:cite2:hmt:pers.v1:pers8">Ζεύς</persName>: <cit><ref type="urn">urn:cts:greekLit:tlg0012.tlg001:17.207-17.208</ref><q>ὅ οἱ οὔτι μάχης ἐκνοστήσαντι δέξεται <persName n="urn:cite2:hmt:pers.v1:pers171">Ἀνδρομάχη</persName> κλυτὰ τεύχεα</q></cit>⁑</p>
             </div>
          </div>
 
@@ -2343,6 +2343,29 @@
             </div>
          </div>
 
+         <div n="77v_1" type="scholion">
+            <div n="lemma">
+               <p/>
+            </div>
+            <div n="ref">
+               <p>urn:cts:greekLit:tlg0012.tlg001.burney86:8.245@πατὴρ</p>
+            </div>
+            <div n="comment">
+               <p>καὶ ὅτι ἐδάκρυσεν <persName n="urn:cite2:hmt:pers.v1:pers22">Ἀγαμέμνων</persName> νῦν ἐσήμανεν</p>
+            </div>
+         </div>
+
+         <div n="77v_2" type="scholion">
+            <div n="lemma">
+               <p/>
+            </div>
+            <div n="ref">
+               <p>urn:cts:greekLit:tlg0012.tlg001.burney86:8.246@σόον</p>
+            </div>
+            <div n="comment">
+               <p>ὑπὲρ ἀναπαύσεως τοῦ ἀκροατοῦ ἀπολεῖσθαι</p>
+            </div>
+         </div>
 
         </body>
       </text>
