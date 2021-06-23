@@ -1,3 +1,6 @@
+#!citerelationset
+urn|urn:cite2:hmt:dse.v1:msBil8
+label|Collection of DSE records for Iliad 8 in the British Library, Burney 86
 text|image|surface
 urn:cts:greekLit:tlg5026.burney86il.hmt:8.73r_1|urn:cite2:citebl:burney86imgs.v1:burney_ms_86_f073r@0.3883,0.3702,0.1942,0.01337|urn:cite2:hmt:burney86pages.v1:73r
 urn:cts:greekLit:tlg5026.burney86il.hmt:8.73r_2|urn:cite2:citebl:burney86imgs.v1:burney_ms_86_f073r@0.2541,0.5206,0.3212,0.02490|urn:cite2:hmt:burney86pages.v1:73r
