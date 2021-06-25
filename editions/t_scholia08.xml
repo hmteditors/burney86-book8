@@ -1783,13 +1783,109 @@
 
          <div n="78v_13" type="scholion">
             <div n="lemma">
-               <p>ὁ δ⸌ε χερμάδιον:</p>
+               <p>ὁ δ⸌ε χερμάδιον</p>
             </div>
             <div n="ref">
                <p>urn:cts:greekLit:tlg0012.tlg001.burney86:8.321@χερμάδιον</p>
             </div>
             <div n="comment">
                <p>ὁ δ⸌ε, Ὁμηρικὸν ἔθος ὡς περὶ ἑτέρου λεγόμενον⁑</p>
+            </div>
+         </div>
+
+         <div n="79r_1" type="scholion">
+            <div n="lemma">
+               <p>παρ' ὧμον</p>
+            </div>
+            <div n="ref">
+               <p>urn:cts:greekLit:tlg0012.tlg001.burney86:8.325@ὦμον</p>
+            </div>
+            <div n="comment">
+               <p>δύναται ἀμφοῖν συντάσσεσθαι⁑</p>
+            </div>
+         </div>
+         
+         <div n="79r_2" type="scholion">
+            <div n="lemma">
+               <p>ὅθι κληὶς ἀποέργει</p>
+            </div>
+            <div n="ref">
+               <p>urn:cts:greekLit:tlg0012.tlg001.burney86:8.325@ὅθι</p>
+            </div>
+            <div n="comment">
+               <p>οὕτω χωρὶς τοῦ <rs type="waw">ι</rs> <rs type="waw">ἀποέργει</rs>⁑</p>
+            </div>
+         </div>
+
+         <div n="79r_3" type="scholion">
+            <div n="lemma">
+               <p>μάλιστα δὲ καίριόν ἐστιν</p>
+            </div>
+            <div n="ref">
+               <p>urn:cts:greekLit:tlg0012.tlg001.burney86:8.326@μάλιστα</p>
+            </div>
+            <div n="comment">
+               <p>διὰ τὸν <choice><abbr>σύνδδ</abbr><expan>σύνδεσμον</expan></choice> τῆς ὠμοπλάτης πρὸς τὸν ὧμον: καίριον δὲ ὡς πρὸς τοξότην⁑</p>
+            </div>
+         </div>
+
+         <div n="79r_4" type="scholion">
+            <div n="lemma">
+               <p>ῥῆξε δέ οἱ νευρήν</p>
+            </div>
+            <div n="ref">
+               <p>urn:cts:greekLit:tlg0012.tlg001.burney86:8.328@ῥῆξε</p>
+            </div>
+            <div n="comment">
+               <p>προδιέλυσε τὴν ὁρμὴν τοῦ λίθου ἡ νευρὰ κοπεῖσα⁑</p>
+            </div>
+         </div>
+
+         <div n="79r_5" type="scholion">
+            <div n="lemma">
+               <p>νάρκησε δὲ χείρ</p>
+            </div>
+            <div n="ref">
+               <p>urn:cts:greekLit:tlg0012.tlg001.burney86:8.328@νάρκησε</p>
+            </div>
+            <div n="comment">
+               <p>ποῖος ὧμος βέβληται: δηλονότι ὁ ἀριστερὸς δι' ὦν φησι <cit><ref type="urn">urn:cts:greekLit:tlg0012.tlg001:8.329</ref><q>τόξον δέ οἱ ἔκπεσε χειρός</q></cit>: ἄλλως τε τὸν προβεβλημένον ὧμον εἰκὸς πεπλῆχθαι: οὐχὶ τὸν συνεσταλμένον ἐν τῷ τοξεύειν: νάρκησε δὲ χείρ: τινὲς <rs type="urn">χεῖρα</rs> κατ' αἰτιατικήν⁑</p>
+            </div>
+         </div>
+
+         <div n="79r_6" type="scholion">
+            <div n="lemma">
+               <p>ἀλλὰ θέων περίβη</p>
+            </div>
+            <div n="ref">
+               <p>urn:cts:greekLit:tlg0012.tlg001.burney86:8.331@ἀλλὰ</p>
+            </div>
+            <div n="comment">
+               <p>τὴν προθυμίαν αὐτοῦ δηλοῖ: διὰ τοῦ θέων: οὐ γὰρ ἦν πόρρῳ⁑</p>
+            </div>
+         </div>
+
+         <div n="79r_7" type="scholion">
+            <div n="lemma">
+               <p><rs n="urn:cite2:hmt:pers.v1:pers220" type="ethnic">Τρώεσσιν</rs> <persName n="urn:cite2:hmt:pers.v1:pers8">Ὀλύμπιος</persName> ἐν μένος ὧρσεν</p>
+            </div>
+            <div n="ref">
+               <p>urn:cts:greekLit:tlg0012.tlg001.burney86:8.335@Τρώεσσιν</p>
+            </div>
+            <div n="comment">
+               <p>πάλιν ἐπὶ τὸν <persName n="urn:cite2:hmt:pers.v1:pers8">Δία</persName> τὸ αἴτιον ἀναφέρει τῆς νίκης⁑</p>
+            </div>
+         </div>
+
+         <div n="79r_8" type="scholion">
+            <div n="lemma">
+               <p><persName n="urn:cite2:hmt:pers.v1:pers172">Ἕκτωρ</persName> δ' ἐν πρώτοισι κίε</p>
+            </div>
+            <div n="ref">
+               <p>urn:cts:greekLit:tlg0012.tlg001.burney86:8.337@Ἕκτωρ</p>
+            </div>
+            <div n="comment">
+               <p>χωρὶς τοῦ <rs type="waw">ν</rs> αἱ <persName n="urn:cite2:hmt:pers.v1:pers16">Ἀριστάρχου</persName> καὶ ἔστιν: ὁ δὲ <persName n="urn:cite2:hmt:pers.v1:pers172">Ἕκτωρ</persName> ἐπὶ τοὺς πρώτους ὥρμα⁑</p>
             </div>
          </div>
 
