@@ -1973,6 +1973,55 @@
             </div>
          </div>
 
+         <div n="79v_1" type="scholion">
+            <div n="lemma">
+               <p>τοὺς δὲ ἰδοῦσ' ἐλέησε</p>
+            </div>
+            <div n="ref">
+               <p>urn:cts:greekLit:tlg0012.tlg001.burney86:8.350@τοὺς</p>
+            </div>
+            <div n="comment">
+               <p>ἀναρτᾷ πάλιν ἡμᾶς ἀπὸ τῶν παρόντων μὴ διηγούμενος τὴν δυστυχίαν τῶν <rs n="urn:cite2:hmt:place.v1:place3" type="ethnic">Ἑλλήνων</rs> ὡς φιλέλλην⁑</p>
+            </div>
+         </div>
+
+         <div n="79v_2" type="scholion">
+            <div n="lemma">
+               <p>αἶψα δ' <persName n="urn:cite2:hmt:pers.v1:pers67">Ἀθηναίην</persName></p>
+            </div>
+            <div n="ref">
+               <p>urn:cts:greekLit:tlg0012.tlg001.burney86:8.351@αἶψα</p>
+            </div>
+            <div n="comment">
+               <p>αἶψα δίχα ἐπιλογισμοῦ: διὸ καὶ μεταμεληθήσεται ὕστερον: ἀποτυχοῦσα δὲ <persName n="urn:cite2:hmt:pers.v1:pers47">Ποσειδῶνος</persName> ταύτην πείθει⁑</p>
+            </div>
+         </div>
+
+         <div n="79v_3" type="scholion">
+            <div n="lemma">
+               <p>οὐκέτι νῶϊ <rs n="urn:cite2:hmt:place.v1:place114" type="ethnic">Ἀργείων</rs> κεκαδησόμεθα ὑστάτιόν περ</p>
+            </div>
+            <div n="ref">
+               <p>urn:cts:greekLit:tlg0012.tlg001.burney86:8.352@vνῶϊ</p>
+            </div>
+            <div n="comment">
+               <p>οὐκέτι ὕστερον χοντϊούμεθα τῶν ἑλλήνων. ἀπολοῦνται γάρ ὡς μὴ χρείαν ἔχειν τῆς ἐξ ἡμῶν ἐπικουρίας: τινὲς δὲ κατ' ἐρώτησιν: κεκαδησόμεθα: ἀντὶ φροντιοῦμεν: παρὰ μὴ δεσθαι: ἔχουσιν οὖν ἀπολογίαν διὰ τὸ μὴ περιορᾶν τὴν <rs n="urn:cite2:hmt:place.v1:place3" type="ethnic">Ἑλλήνων</rs> ἐσχάτην ἀπώλειαν: ἔστι δὲ <choice><abbr>μέ</abbr><expan>μέσος</expan></choice> <num n="2">β</num> <choice><abbr>μέ</abbr><expan>μέλλων</expan></choice> καδήσομαι καὶ <rs n="urn:cite2:hmt:place.v1:place77" type="ethnic">Αἰολικῷ</rs> ἀναδιπλασιασμῷ κεκαδήσομαι⁑</p>
+            </div>
+         </div>
+
+         <div n="79v_4" type="scholion">
+            <div n="lemma">
+               <p>ὑστάτιον</p>
+            </div>
+            <div n="ref">
+               <p>urn:cts:greekLit:tlg0012.tlg001.burney86:8.353@Γοργοῦς</p>
+            </div>
+            <div n="comment">
+               <p>ἀντὶ τοῦ ὕστατον, ὡς <rs type="waw">μάλλιον</rs> τὸ <rs type="waw">μᾶλλον</rs>⁑</p>
+            </div>
+         </div>
+
+
         </body>
       </text>
 
