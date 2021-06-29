@@ -2021,6 +2021,115 @@
             </div>
          </div>
 
+         <div n="79v_5" type="scholion">
+            <div n="lemma">
+               <p>ἀνδρὸς ἑνὸς ῥιπῇ: ὁ δὲ μαίνετ' <persName n="urn:cite2:hmt:pers.v1:pers172">Ἕκτωρ Πριαμίδης</persName></p>
+            </div>
+            <div n="ref">
+               <p>urn:cts:greekLit:tlg0012.tlg001.burney86:8.355@ἀνδρὸς</p>
+            </div>
+            <div n="comment">
+               <p>τεχνικῶς οὐ κατὰ <persName n="urn:cite2:hmt:pers.v1:pers8">Διὸς</persName> αὐτὴν ὀτρύνει: μὴ ἄρα αἰδεσθῇ τῷ <choice><abbr>πρι</abbr><expan>πατρὶ</expan></choice> <w>ἐναντιο<unclear>ῦσ</unclear>θαι</w>: ἡ δ⸌ε συνιεῖσα τὸ σιωπηθέν φησιν: <cit><ref type="urn">urn:cts:greekLit:tlg0012.tlg001:8.360</ref><q>ἀλλὰ <choice><abbr>πηρ</abbr><expan>πατὴρ</expan></choice> οὑμός</q></cit> ἐμφαντικὴ δὲ ἡ <choice><abbr>μεταφο</abbr><expan>μεταφορά</expan></choice>: τὸ γὰρ <rs type="waw">ῥιπῇ</rs>, ἐπὶ ἀνέμου καὶ πυρὸς τάττεται: ἄμφω δὲ ἔχει ἐπὶ <persName n="urn:cite2:hmt:pers.v1:pers172">Ἕκτορος</persName>: <cit><ref type="urn">urn:cts:greekLit:tlg0012.tlg001:11.297</ref><q>ἐν δ' ἔπεσ' ὑσμίνῃ ὑπεραέϊ ἶσος ἀέλλῃ</q></cit>: καὶ <cit><ref type="urn">urn:cts:greekLit:tlg0012.tlg001:15.605</ref><q>μαίνετο δ' ὡς ὅτ' <persName n="urn:cite2:hmt:pers.v1:pers83">Ἄρ'</persName> ἐχέσπαλος: ἢ ὀλοὸν πῦρ</q></cit>.⁑</p>
+            </div>
+         </div>
+
+         <div n="79v_6" type="scholion">
+            <div n="lemma">
+               <p>φρεσὶ μαίνεται</p>
+            </div>
+            <div n="ref">
+               <p>urn:cts:greekLit:tlg0012.tlg001.burney86:8.360@μαίνεται</p>
+            </div>
+            <div n="comment">
+               <p>ἐνθουσιᾶ: ὡς τὸ <cit><ref type="urn">urn:cts:greekLit:tlg0012.tlg001:15.605</ref><q>μαίνετο δ' ὡς ὅτ' <persName n="urn:cite2:hmt:pers.v1:pers83">Ἄρης</persName></q></cit>: τὸ φιλότιμον δὲ τῆς κακώσεως <w>δ<unclear>η</unclear>λοῖ</w>⁑</p>
+            </div>
+         </div>
+
+         <div n="79v_7" type="scholion">
+            <div n="lemma">
+               <p>οὐδέ τι τῶν μέμνηται</p>
+            </div>
+            <div n="ref">
+               <p>urn:cts:greekLit:tlg0012.tlg001.burney86:8.362@οὐδέ</p>
+            </div>
+            <div n="comment">
+               <p>πρὸς μὲν τὸν <persName n="urn:cite2:hmt:pers.v1:pers8">Δία</persName> εὐπρεπὴς ἡ εἰς τὸν <persName n="urn:cite2:hmt:pers.v1:pers71">Ἡρακλέα</persName> τῆς εὐργεσίας ἀνάμνησις: πρὸς δὲ τὴν <persName n="urn:cite2:hmt:pers.v1:pers116">Ἥραν</persName> οὐκέτι: αὕτη γὰρ ἠναντιοῦτο αὐτῇ σωζούσῃ τὸν <persName n="urn:cite2:hmt:pers.v1:pers71">Ἡρακλέα</persName>: ἢ ἐκεῖνο ῥητέον ὅτι ἀνθρώπινόν ἔχει ἡ εἰκών: πολλὴν γὰρ σπουδὴν εἴς ἰδίας εἰσενεγκάμενοι καὶ δι' αὐτῶν τοῖς ἀναγκαίοις εἰς ἀπέχθειαν ἐλθόντες ἀχαρίστων ὄντων τῶν εὖ πεπονθότων, εἰώθαμεν σχετλιάζοντες εἰσφέρειν πρὸς οὓς ἀπηχθήμεθα, τὴν τῶν εὐεργετηθέντων ἀχαριστίαν μεμφόμενοι ἑαυτοὺς ἐπὶ τῇ ἀβούλῳ κρίσει⁑</p>
+            </div>
+         </div>
+
+         <div n="79v_8" type="scholion">
+            <div n="lemma">
+               <p>εὖτέ μιν εἰς <placeName>Ἀΐδαο</placeName></p>
+            </div>
+            <div n="ref">
+               <p>urn:cts:greekLit:tlg0012.tlg001.burney86:8.367@εὖτέ</p>
+            </div>
+            <div n="comment">
+               <p>ἀπὸ τοῦ μείζονος ἄθλου πάντας δηλοῖ: οἶδε δὲ τὸν κύνα: ἥ τὴν φύσιν αὐτοῦ: <persName n="urn:cite2:hmt:pers.v1:pers5">Πίνδαρος</persName> δὲ <rs type="waw">ρ</rs>: <persName n="urn:cite2:hmt:pers.v1:pers4">Ἡσίοδος</persName> δὲ πεντήκοντα ἔχειν αὐτὸν κεφαλάς φασιν</p>
+            </div>
+         </div>
+
+         <div n="79v_9" type="scholion">
+            <div n="lemma">
+               <p>αἰπὰ ῥέεθρα</p>
+            </div>
+            <div n="ref">
+               <p>urn:cts:greekLit:tlg0012.tlg001.burney86:8.369@αἰπὰ</p>
+            </div>
+            <div n="comment">
+               <p>προσάντη καὶ ἄνωθεν καταρρέοντα: <cit><ref type="urn">urn:cts:greekLit:tlg0012.tlg001:15.37</ref><q>καὶ τὸ κατειβόμενον <unclear><placeName n="urn:cite2:hmt:place.v1:place280">Στυγὸς</placeName></unclear> ὕδωρ</q></cit>: τὸν πλοῦν δὲ τοῦ <placeName n="urn:cite2:hmt:place.v1:place279">Κωκυτοῦ</placeName> φησιν: <cit><ref type="urn">urn:cts:greekLit:tlg0012.tlg002:10.514</ref><q>ὃς δὴ <placeName n="urn:cite2:hmt:place.v1:place280">Στυγὸς</placeName> ὕδατός ἐστιν ἀπορρώξ</q></cit>⁑</p>
+            </div>
+         </div>
+
+         <div n="79v_10" type="scholion">
+            <div n="lemma">
+               <p><persName n="urn:cite2:hmt:pers.v1:pers19"><w><unclear>Θ</unclear>έτιδος</w></persName> δ', ἐξήνυσε βουλάς</p>
+            </div>
+            <div n="ref">
+               <p>urn:cts:greekLit:tlg0012.tlg001.burney86:8.370@Θέτιδος</p>
+            </div>
+            <div n="comment">
+               <p><w>ἀπέκρυ<unclear>ψ</unclear>εν</w> <w>α<unclear>ὐ</unclear>τῆς</w> τὴν χάριν: τὴν δὲ ἰδίαν ὠνείδισεν⁑</p>
+            </div>
+         </div>
+
+         <div n="79v_11" type="scholion">
+            <div n="lemma">
+               <p>ἥ οἱ γούνατ' ἔκυσσε</p>
+            </div>
+            <div n="ref">
+               <p>urn:cts:greekLit:tlg0012.tlg001.burney86:8.371@οἱ</p>
+            </div>
+            <div n="comment">
+               <p>παρὰ <persName n="urn:cite2:hmt:pers.v1:pers15">Ζηνοδότῳ</persName>, οὐκ ἦσαν οἱ δύο⁑</p>
+            </div>
+         </div>
+
+         <div n="79v_12" type="scholion">
+            <div n="lemma">
+               <p>ὅτ' ἂν αὖτε φίλην γλαυκώπιδα</p>
+            </div>
+            <div n="ref">
+               <p>urn:cts:greekLit:tlg0012.tlg001.burney86:8.373@ἂν</p>
+            </div>
+            <div n="comment">
+               <p>ἠθικῶς πάνυ τῶν φιλοφρονήσεων τοῦ <choice><abbr>πρς</abbr><expan>πατρὸς</expan></choice> μέμνηται: ταῦτα τὰ ὀνόματα εἰποῦσα: οἷς ὑπεκορίζετο αὐτὴν ὁ <persName n="urn:cite2:hmt:pers.v1:pers8">Ζεὺς</persName> <w><unclear>πρ</unclear>ὸς</w> τὰς χρείας παρακαλῶν⁑</p>
+            </div>
+         </div>
+
+         <div n="79v_13" type="scholion">
+            <div n="lemma">
+               <p>ἐπέντυε μώνυχας ἵππους</p>
+            </div>
+            <div n="ref">
+               <p>urn:cts:greekLit:tlg0012.tlg001.burney86:8.374@ἐπέντυε</p>
+            </div>
+            <div n="comment">
+               <p>οὐχ ὡς ἥτγονι προστάσσει: ἀλλὰ καιρὸν λαμβάνουσα πρὸς τὸν ὁπλισμόν⁑</p>
+            </div>
+         </div>
+
+
 
         </body>
       </text>
@@ -2977,6 +3086,138 @@
             </div>
             <div n="comment">
                <p>ὁ δέ ἀντὶ τοῦ γάρ: ἔστι δὲ διὰ μέσου:</p>
+            </div>
+         </div>
+
+         <div n="79v_1" type="scholion">
+            <div n="lemma">
+               <p/>
+            </div>
+            <div n="ref">
+               <p>urn:cts:greekLit:tlg0012.tlg001.burney86:8.352@πόποι</p>
+            </div>
+            <div n="comment">
+               <p>οἰκεῖον τῇ σχετλιαζούσῃ τὸ προοίμιον</p>
+            </div>
+         </div>
+
+         <div n="79v_2" type="scholion">
+            <div n="lemma">
+               <p/>
+            </div>
+            <div n="ref">
+               <p>urn:cts:greekLit:tlg0012.tlg001.burney86:8.358@λίην</p>
+            </div>
+            <div n="comment">
+               <p>περὶ τούτου μὲν οὖν οὔ μοι μέλλει φησίν: ἀπολεῖται γὰρ ὅσον οὐδέπω: ὁ δὲ <choice><abbr>πηρ</abbr><expan>πατήρ</expan></choice> ἐστιν ὁ ἐμὸς αἴτιος⁑</p>
+            </div>
+         </div>
+
+         <div n="79v_3" type="scholion">
+            <div n="lemma">
+               <p/>
+            </div>
+            <div n="ref">
+               <p>urn:cts:greekLit:tlg0012.tlg001.burney86:8.359@χερσὶν</p>
+            </div>
+            <div n="comment">
+               <p>λίαν ὅσον οὐδέπω οὕτως ἔχει: καὶ τὸ <cit><ref type="urn">urn:cts:greekLit:tlg0012.tlg001:10.251</ref><q>ἀλλ' ἴομεν: μάλα γὰρ νὺξ ἄνεται</q></cit></p>
+            </div>
+         </div>
+
+         <div n="79v_4" type="scholion">
+            <div n="lemma">
+               <p/>
+            </div>
+            <div n="ref">
+               <p>urn:cts:greekLit:tlg0012.tlg001.burney86:8.360@οὑμός</p>
+            </div>
+            <div n="comment">
+               <p>ὁ μέγας καὶ σεμνός</p>
+            </div>
+         </div>
+
+         <div n="79v_5" type="scholion">
+            <div n="lemma">
+               <p/>
+            </div>
+            <div n="ref">
+               <p>urn:cts:greekLit:tlg0012.tlg001.burney86:8.361@ἀλιτρός</p>
+            </div>
+            <div n="comment">
+               <p>εἰς ἐμὲ ἀλιτρός, διὰ τὰ πεπονημένα εἰς <persName n="urn:cite2:hmt:pers.v1:pers71">Ἡρακλέα</persName>⁑</p>
+            </div>
+         </div>
+
+         <div n="79v_6" type="scholion">
+            <div n="lemma">
+               <p/>
+            </div>
+            <div n="ref">
+               <p>urn:cts:greekLit:tlg0012.tlg001.burney86:8.361@ἀπερωεύς</p>
+            </div>
+            <div n="comment">
+               <p>ἀποκωλυτής⁑</p>
+            </div>
+         </div>
+
+         <div n="79v_7" type="scholion">
+            <div n="lemma">
+               <p/>
+            </div>
+            <div n="ref">
+               <p>urn:cts:greekLit:tlg0012.tlg001.burney86:8.363@ἀέθλων</p>
+            </div>
+            <div n="comment">
+               <p>κακοπαθειῶν:</p>
+            </div>
+         </div>
+
+         <div n="79v_8" type="scholion">
+            <div n="lemma">
+               <p/>
+            </div>
+            <div n="ref">
+               <p>urn:cts:greekLit:tlg0012.tlg001.burney86:8.364@κλαίεσκε</p>
+            </div>
+            <div n="comment">
+               <p>αὔξει τὴν ἐπικουρίαν: δηλοῖ δὲ καὶ τὸ εὐσεβὲς <persName n="urn:cite2:hmt:pers.v1:pers71">Ἡρακλέους</persName></p>
+            </div>
+         </div>
+
+         <div n="79v_9" type="scholion">
+            <div n="lemma">
+               <p/>
+            </div>
+            <div n="ref">
+               <p>urn:cts:greekLit:tlg0012.tlg001.burney86:8.365@οὐρανόθεν</p>
+            </div>
+            <div n="comment">
+               <p>ἀπολογεῖται τῇ μητρυᾷ:</p>
+            </div>
+         </div>
+
+         <div n="79v_10" type="scholion">
+            <div n="lemma">
+               <p/>
+            </div>
+            <div n="ref">
+               <p>urn:cts:greekLit:tlg0012.tlg001.burney86:8.367@πυλάρταο</p>
+            </div>
+            <div n="comment">
+               <p>διὰ τὸ μηδένα ἀνιέναι:</p>
+            </div>
+         </div>
+
+         <div n="79v_11" type="scholion">
+            <div n="lemma">
+               <p/>
+            </div>
+            <div n="ref">
+               <p>urn:cts:greekLit:tlg0012.tlg001.burney86:8.370@μὲν</p>
+            </div>
+            <div n="comment">
+               <p>οὐκ εἶπεν ὅτι οὐδὲν ἀντευεργετεῖ ἀλλ' ἠθικῶς καὶ μισεῖ με:</p>
             </div>
          </div>
 
