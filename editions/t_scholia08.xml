@@ -2129,6 +2129,114 @@
             </div>
          </div>
 
+         <div n="80r_1" type="scholion">
+            <div n="lemma">
+               <p>εἰ νῶϊν <persName n="urn:cite2:hmt:pers.v1:pers145">Πριάμοιο</persName> πάϊς</p>
+            </div>
+            <div n="ref">
+               <p>urn:cts:greekLit:tlg0012.tlg001.burney86:8.377@νῶϊν</p>
+            </div>
+            <div n="comment">
+               <p>ἠθικῶς πρὸς τὸ <cit><ref type="urn">urn:cts:greekLit:tlg0012.tlg001:8.355</ref><q>ὁ δὲ μαίνεται οὐκέτ' ἀνεκτῶς</q></cit>⁑</p>
+            </div>
+         </div>
+
+         <div n="80r_2" type="scholion">
+            <div n="lemma">
+               <p>προφανείσα</p>
+            </div>
+            <div n="ref">
+               <p>urn:cts:greekLit:tlg0012.tlg001.burney86:8.378@προφανείσα</p>
+            </div>
+            <div n="comment">
+               <p>δυϊκῶς: <persName n="urn:cite2:hmt:pers.v1:pers16">Ἀρίσταρχος</persName> δὲ <rs type="waw">προφανέντε</rs>: ὡς <cit><ref type="urn">urn:cts:greekLit:tlg0012.tlg001:8.455</ref><q>πληγέντε κεραυνῷ</q></cit> ὁ δὲ <persName n="urn:cite2:hmt:pers.v1:pers15">Ζηνόδοτος</persName>: <q>γηθήσει προφανείσας ἰδὼν ἐς δοῦπον ἀκόντων</q>: συτέλλων τὸ <rs type="waw">σας</rs> ὡς τὸ <q>λαγέτας υἱούς</q> δὲ <q>τροπὰς ἐξόδοιο</q>⁑</p>
+            </div>
+         </div>
+
+         <div n="80r_3" type="scholion">
+            <div n="lemma">
+               <p>ἦ τις καὶ <rs n="urn:cite2:hmt:pers.v1:pers220" type="ethnic">Τρῴων</rs> κορέσει</p>
+            </div>
+            <div n="ref">
+               <p>urn:cts:greekLit:tlg0012.tlg001.burney86:8.379@τις</p>
+            </div>
+            <div n="comment">
+               <p>περισπαστέον τὸν <rs type="waw">η</rs>: διαπορρητικὸς γάρ ἐστιν τὸ δὲ τίς ἢ περισσόν, ἢ τὶς ἐκ τῶν <rs n="urn:cite2:hmt:pers.v1:pers220" type="ethnic">Τρῴων</rs>: εἰ δὲ ἐπὶ <persName n="urn:cite2:hmt:pers.v1:pers172">Ἕκτορος</persName>. οὗτος ὁ νοῦς: <q>ὡς ἄλλος τις κορέσει κύνας</q>⁑</p>
+            </div>
+         </div>
+
+         <div n="80r_4" type="scholion">
+            <div n="lemma">
+               <p>πέπλον μὲν κατέχευε</p>
+            </div>
+            <div n="ref">
+               <p>urn:cts:greekLit:tlg0012.tlg001.burney86:8.385@μὲν</p>
+            </div>
+            <div n="comment">
+               <p><persName n="urn:cite2:hmt:pers.v1:pers21"><choice><abbr>Ἀριστοφά</abbr><expan>Ἀριστοφάνης</expan></choice></persName> ἠθέτει τοὺς τρεῖς: <persName n="urn:cite2:hmt:pers.v1:pers15">Ζηνόδοτος</persName> δὲ οὐδὲ ἔγραψεν</p>
+            </div>
+         </div>
+
+         <div n="80r_5" type="scholion">
+            <div n="lemma">
+               <p>λάζετο δ' ἔγχος</p>
+            </div>
+            <div n="ref">
+               <p>urn:cts:greekLit:tlg0012.tlg001.burney86:8.389@λάζετο</p>
+            </div>
+            <div n="comment">
+               <p><persName n="urn:cite2:hmt:pers.v1:pers308">Πτολεμαῖος</persName> διὰ τοῦ <rs type="waw">υ</rs>: καὶ ἔστιν οὐκ ἄκαιρος ἡ γραφὴ <rs type="waw">λάζυτο</rs>.⁑</p>
+            </div>
+         </div>
+
+         <div n="80r_6" type="scholion">
+            <div n="lemma">
+               <p>πύλαι μύκον:</p>
+            </div>
+            <div n="ref">
+               <p>urn:cts:greekLit:tlg0012.tlg001.burney86:8.393@πύλαι</p>
+            </div>
+            <div n="comment">
+               <p>οὕτω λέγει ἐπὶ τῶν θυρῶν: <cit><ref type="urn">urn:cts:greekLit:tlg0012.tlg002:21.48</ref><q>τὰ δ' ἀνέβραχεν ἠΰτε ταῦρος</q></cit> <cit><ref type="urn">urn:cts:greekLit:tlg0012.tlg002:21.49</ref><q>τόσ' ἔβραχε καλὰ θύρετρα</q></cit>: τὸ δὲ μύκον, ἀντὶ τοῦ ἀνεώχθησαν⁑</p>
+            </div>
+         </div>
+
+         <div n="80r_7" type="scholion">
+            <div n="lemma">
+               <p>βάσκ' ἴθι <persName n="urn:cite2:hmt:pers.v1:pers282">Ἶρι</persName> ταχεῖα</p>
+            </div>
+            <div n="ref">
+               <p>urn:cts:greekLit:tlg0012.tlg001.burney86:8.399@βάσκ'</p>
+            </div>
+            <div n="comment">
+               <p>ἀντὶ τοῦ <rs type="waw">ταχέως</rs> <cit><ref type="urn">urn:cts:greekLit:tlg0012.tlg001:19.276</ref><q>λῦσεν δ' ἀγορὴν αἰψηρήν</q></cit>: ἀντὶ τοῦ <rs type="waw">αἰψηρῶς</rs> καὶ <cit><ref type="urn">urn:cts:greekLit:tlg0012.tlg001:23.287</ref><q>ταχέες δ' ἱππῆες ἄγερθεν</q></cit>: καὶ <cit><ref type="urn">urn:cts:greekLit:tl2g0012.tlg001:21.387</ref><q>βράχε δ' εὐρεῖα χθών</q></cit>: ἀελλόπους γάρ⁑</p>
+            </div>
+         </div>
+
+         <div n="80r_8" type="scholion">
+            <div n="lemma">
+               <p>μὴδ' ἔα ἄντην</p>
+            </div>
+            <div n="ref">
+               <p>urn:cts:greekLit:tlg0012.tlg001.burney86:8.399@ἔα</p>
+            </div>
+            <div n="comment">
+               <p>μὴ δὲ ἔα εἰς τὸ ἐναντίον τῆς ἐμῆς κελεύσεως ἔρχεσθαι αὐτάς: οὐ γὰρ καλῶς εἰς τὸν πόλεμον σπευσόμεθα⁑</p>
+            </div>
+         </div>
+
+         <div n="80r_9" type="scholion">
+            <div n="lemma">
+               <p>γυιώσω μέν σφωϊν</p>
+            </div>
+            <div n="ref">
+               <p>urn:cts:greekLit:tlg0012.tlg001.burney86:8.402@γυιώσω</p>
+            </div>
+            <div n="comment">
+               <p>βλάψω: ὅ ἐστι χωλανῶ: καὶ κενοὺς εἰς τὴν πορείαν ποιήσω⁑</p>
+            </div>
+         </div>
+
 
 
         </body>
@@ -3218,6 +3326,30 @@
             </div>
             <div n="comment">
                <p>οὐκ εἶπεν ὅτι οὐδὲν ἀντευεργετεῖ ἀλλ' ἠθικῶς καὶ μισεῖ με:</p>
+            </div>
+         </div>
+
+         <div n="80r_1" type="scholion">
+            <div n="lemma">
+               <p/>
+            </div>
+            <div n="ref">
+               <p>urn:cts:greekLit:tlg0012.tlg001.burney86:8.385@μὲν</p>
+            </div>
+            <div n="comment">
+               <p>θαυμασίως οὐ γυμνοῖ, τὴν παρθένον:</p>
+            </div>
+         </div>
+
+         <div n="80r_2" type="scholion">
+            <div n="lemma">
+               <p/>
+            </div>
+            <div n="ref">
+               <p>urn:cts:greekLit:tlg0012.tlg001.burney86:8.396@διʼ</p>
+            </div>
+            <div n="comment">
+               <p>ἀντὶ τοῦ <rs type="waw">ἐκεῖ</rs>:</p>
             </div>
          </div>
 
