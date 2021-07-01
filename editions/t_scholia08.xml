@@ -2537,8 +2537,101 @@
             </div>
          </div>
 
-   
+         <div n="81v_1" type="scholion">
+            <div n="lemma">
+               <p>σκυζομένη</p>
+            </div>
+            <div n="ref">
+               <p>urn:cts:greekLit:tlg0012.tlg001.burney86:8.460@σκυζομένη</p>
+            </div>
+            <div n="comment">
+               <p>παρὰ τὸ <rs type="waw">ἐπεισάγειν</rs> τὸ <rs type="waw">ἐπισκύνιον</rs>⁑</p>
+            </div>
+         </div>
 
+         <div n="81v_2" type="scholion">
+            <div n="lemma">
+               <p>αἰνότατε <persName n="urn:cite2:hmt:pers.v1:pers8">Κρονίδη</persName></p>
+            </div>
+            <div n="ref">
+               <p>urn:cts:greekLit:tlg0012.tlg001.burney86:8.462@αἰνότατε</p>
+            </div>
+            <div n="comment">
+               <p>οὐκ ἔδει λέγειν <persName n="urn:cite2:hmt:pers.v1:pers8">Ζεῦ</persName> <choice><abbr>περ</abbr><expan>πάτερ</expan></choice>: οὐ γὰρ φιλοφρονεῖται: οὐδὲ <w>αἰνότ<unclear>ατε</unclear></w> πρὸς τὸ μὴ ἐρεθίσαι αὐτόν: αὐτοῦ οὖν ἄρχεται τοῦ πράγματος: καὶ ἡ <persName n="urn:cite2:hmt:pers.v1:pers67">Ἀθηνᾶ</persName> δὲ ταῦτα ἔλεγεν: ἀλλὰ φιλοφρόνως: διὸ ἐδάμασε τὸν <persName n="urn:cite2:hmt:pers.v1:pers8">Δία</persName> ἡ δ⸌ε ἐπιτεταμένως λέγω δὴ τὸ <cit><ref type="urn">urn:cts:greekLit:tlg0012.tlg001:8.464</ref><q>ἔμπης <rs n="urn:cite2:hmt:pers.v1:pers66" type="ethnic">Δαναῶν</rs> ὀλοφυρόμεθα</q></cit> διὸ ἐπιτείνει τὴν ὀργὴν <persName n="urn:cite2:hmt:pers.v1:pers8">Διός</persName> ⁑</p>
+            </div>
+         </div>
+
+         <div n="81v_3" type="scholion">
+            <div n="lemma">
+               <p>ἠοῦς</p>
+            </div>
+            <div n="ref">
+               <p>urn:cts:greekLit:tlg0012.tlg001.burney86:8.470@ἠοῦς</p>
+            </div>
+            <div n="comment">
+               <p>ἕωθεν ὄρθρου τῇ ἐπιούσῃ ἡμέρᾳ: κινητικὰ δὲ τῶν ἀκουόντων: ἀλλ' ὁρίζων τὸ πέρας: παραμυθεῖται τὴν ἀτυχίαν⁑</p>
+            </div>
+         </div>
+
+         <div n="81v_4" type="scholion">
+            <div n="lemma">
+               <p>οὐ γὰρ πρὶν παύσεται ὄβριμος <persName n="urn:cite2:hmt:pers.v1:pers172">Ἕκτωρ</persName></p>
+            </div>
+            <div n="ref">
+               <p>urn:cts:greekLit:tlg0012.tlg001.burney86:8.473@πρὶν</p>
+            </div>
+            <div n="comment">
+               <p>τὸ <rs type="waw">ὄβριμος</rs> προσέθηκε πρὸς τὸ <rs n="waw">λυπεῖν</rs> αὐτήν⁑</p>
+            </div>
+         </div>
+
+         <div n="81v_5" type="scholion">
+            <div n="lemma">
+               <p>στείνει ἐν αἰνοτάτῳ</p>
+            </div>
+            <div n="ref">
+               <p>urn:cts:greekLit:tlg0012.tlg001.burney86:8.476@στείνει</p>
+            </div>
+            <div n="comment">
+               <p>τὴν τῶν πραγμάτων στενοχωρίαν δηλοῖ: ἅμα δὲ καὶ στενός ἐστι: τόπος οὕτω καλούμενος.⁑</p>
+            </div>
+         </div>
+
+         <div n="81v_6" type="scholion">
+            <div n="lemma">
+               <p>ὣς γὰρ θέσφατόν ἐστι</p>
+            </div>
+            <div n="ref">
+               <p>urn:cts:greekLit:tlg0012.tlg001.burney86:8.477@ὣς</p>
+            </div>
+            <div n="comment">
+               <p>τὸ μοιρίδιον προβάλλεται: ἵνα μὴ δοκῇ τυραννεῖν⁑</p>
+            </div>
+         </div>
+
+         <div n="81v_7" type="scholion">
+            <div n="lemma">
+               <p>πείρατα γαίης ἵκηαι καὶ πόντον</p>
+            </div>
+            <div n="ref">
+               <p>urn:cts:greekLit:tlg0012.tlg001.burney86:8.478@πείραθ'</p>
+            </div>
+            <div n="comment">
+               <p>δείκνυσιν ὁ ποιητὴς ὅτι συναπολήγει γῆ καὶ θάλασσα: ὡς ἂν τοῦ ὕδατος περικεχυμένου τῇ γῇ σφαιρικῶς καὶ καλύποντος αὐτὴν. πλὴν τῶν ἀνεχουσῶν ἠπείρων: ἐν αἷς κατοικοῦμεν⁑</p>
+            </div>
+         </div>
+
+         <div n="81v_8" type="scholion">
+            <div n="lemma">
+               <p>τὸν δ' οὔτι προσέφη λευκώλενος</p>
+            </div>
+            <div n="ref">
+               <p>urn:cts:greekLit:tlg0012.tlg001.burney86:8.484@τὸν</p>
+            </div>
+            <div n="comment">
+               <p>ἐν καιρῷ ἡ ἀποσιώπησις: οὔτε γὰρ ἐπαινεῖν ἔχει τὰ λεχθέντα: οὔτε ἀντιλέγειν πρὸς ὀργὴν τοιαύτην⁑</p>
+            </div>
+         </div>
 
         </body>
       </text>
