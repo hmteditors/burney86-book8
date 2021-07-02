@@ -2633,6 +2633,43 @@
             </div>
          </div>
 
+         <div n="81v_9" type="scholion">
+            <div n="lemma">
+               <p>ἐν δ' ἔπεσ' <persName n="urn:cite2:hmt:pers.v1:pers123">Ὠκεανῷ</persName></p>
+            </div>
+            <div n="ref">
+               <p>urn:cts:greekLit:tlg0012.tlg001.burney86:8.485@δ'</p>
+            </div>
+            <div n="comment">
+               <p>τῶ ὁρίζοντί φησιν: ὃς διατειχίζει τοῦ κόσμου τὸ φανερὸν καὶ ἀφανές: οὐκ ἀληθῆ οὖν οὖν δηλοῖ ἔμπτωσιν τοῦ ἡλίου: ἀλλὰ φαντασίαν δίδωσιν ὡς ἐπὶ τὸν <persName n="urn:cite2:hmt:pers.v1:pers123">Ὠκεανὸν</persName> ἔρχεται: ἐπὶ τὴν δύσιν ἐλθών⁑</p>
+            </div>
+         </div>
+
+         <div n="81v_10" type="scholion">
+            <div n="lemma">
+               <p>ἕλκον νύκτα μέλαιναν</p>
+            </div>
+            <div n="ref">
+               <p>urn:cts:greekLit:tlg0012.tlg001.burney86:8.486@ἕλκον</p>
+            </div>
+            <div n="comment">
+               <p>ἕλκον τῇ ἀσθενείᾳ τοῦ φωτὸς τῶν ἀκτίνων: εὖ δὲ καὶ τὸ παρατατικόν: σφαιροειδὴς γὰρ οὖσα ἡ γῆ, οὐ πᾶσα ὑφ' ἓν σκιάζεται: ἀλλὰ κατὰ μικρόν⁑</p>
+            </div>
+         </div>
+
+         <div n="81v_11" type="scholion">
+            <div n="lemma">
+               <p><rs n="" type="ethnic">Τρωσὶ</rs> μέν ῥ' ἀέκουσιν</p>
+            </div>
+            <div n="ref">
+               <p>urn:cts:greekLit:tlg0012.tlg001.burney86:8.487@Τρωσὶ</p>
+            </div>
+            <div n="comment">
+               <p>βραχείαν ταύτην τὴν μάχην ἐποίησεν, ἐγχρονίζειν ταῖς τῶν <rs n="urn:cite2:hmt:place.v1:place3" type="ethnic">Ἑλλήνων</rs> δυστυχίαις οὐ θέλων: ὅθεν τινὲς αὐτὴν καλοῦσι κῶλον⁑</p>
+            </div>
+         </div>
+
+
         </body>
       </text>
 
@@ -3756,6 +3793,42 @@
             </div>
             <div n="comment">
                <p>διχῶς τοῦ <rs type="waw">ν</rs> τὸ νῶϊ</p>
+            </div>
+         </div>
+
+         <div n="81v_1" type="scholion">
+            <div n="lemma">
+               <p/>
+            </div>
+            <div n="ref">
+               <p>urn:cts:greekLit:tlg0012.tlg001.burney86:8.462@τὸν</p>
+            </div>
+            <div n="comment">
+               <p>τὸν ποῖον μῦθον</p>
+            </div>
+         </div>
+
+         <div n="81v_2" type="scholion">
+            <div n="lemma">
+               <p/>
+            </div>
+            <div n="ref">
+               <p>urn:cts:greekLit:tlg0012.tlg001.burney86:8.474@ὄρθαι</p>
+            </div>
+            <div n="comment">
+               <p>διεγερθῆναι:</p>
+            </div>
+         </div>
+
+         <div n="81v_3" type="scholion">
+            <div n="lemma">
+               <p/>
+            </div>
+            <div n="ref">
+               <p>urn:cts:greekLit:tlg0012.tlg001.burney86:8.488@τρίλλιστος</p>
+            </div>
+            <div n="comment">
+               <p>πολυλιτάνευτος, πλεονάζει δὲ τὸ <rs n="waw">λ</rs>:</p>
             </div>
          </div>
 
