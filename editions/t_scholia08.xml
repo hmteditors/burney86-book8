@@ -1606,7 +1606,7 @@
                <p>ἢ τρίποδαι</p>
             </div>
             <div n="ref">
-               <p>urn:cts:greekLit:tlg0012.tlg001.burney86:8.290@δὲ</p>
+               <p>urn:cts:greekLit:tlg0012.tlg001.burney86:8.290@τρίποδ'</p>
             </div>
             <div n="comment">
                <p>διαζευκτικὸς ὁ <rs type="waw">η</rs>: ὡς τὸ <cit><ref type="urn">urn:cts:greekLit:tlg0012.tlg002:5.484</ref><q>ἠὲ δύω ἢ τρεῖς ἄνδρας ἔρυσθαι</q></cit>⁑</p>
@@ -1642,7 +1642,7 @@
                <p>τόξοισι</p>
             </div>
             <div n="ref">
-               <p>urn:cts:greekLit:tlg0012.tlg001.burney86:8.296@μτόξοισιε</p>
+               <p>urn:cts:greekLit:tlg0012.tlg001.burney86:8.296@τόξοισι</p>
             </div>
             <div n="comment">
                <p>βέλεσι: <cit><ref type="urn">urn:cts:greekLit:tlg0012.tlg001:21.502-21.503</ref><q>συναίνυτο καμπύλα τόξα πεπτεῶτα</q></cit>⁑</p>
@@ -1702,7 +1702,7 @@
                <p>καρπῶ βριθομένῃ</p>
             </div>
             <div n="ref">
-               <p>urn:cts:greekLit:tlg0012.tlg001.burney86:8.207@καρπῷ</p>
+               <p>urn:cts:greekLit:tlg0012.tlg001.burney86:8.307@καρπῷ</p>
             </div>
             <div n="comment">
                <p>λείπει τὸ ἔστιν: οὐ γὰρ ἀναδέχεται ὁ <persName n="urn:cite2:hmt:pers.v1:pers76">Νικάνωρ</persName>: τὴν μετοχὴν ἀντὶ ῥήματος⁑</p>
@@ -1738,7 +1738,7 @@
                <p>παρέσφηλεν γὰρ <persName n="urn:cite2:hmt:pers.v1:pers40">Ἀπόλλων</persName></p>
             </div>
             <div n="ref">
-               <p>urn:cts:greekLit:tlg0012.tlg001.burney86:8.311@παρέσφηλεν</p>
+               <p>urn:cts:greekLit:tlg0012.tlg001.burney86:8.311@παρέσφηλε</p>
             </div>
             <div n="comment">
                <p>καὶ τὸν <persName n="urn:cite2:hmt:pers.v1:pers172">Ἕκτορα</persName> σῴζει: καὶ <persName n="urn:cite2:hmt:pers.v1:pers243">Τεῦκρον</persName> ἐπαίρει: παρέσφηλε δὲ τὸ βέλος ἢ τὸν <persName n="urn:cite2:hmt:pers.v1:pers243">Τεῦκρον</persName>⁑</p>
@@ -2002,7 +2002,7 @@
                <p>οὐκέτι νῶϊ <rs n="urn:cite2:hmt:place.v1:place114" type="ethnic">Ἀργείων</rs> κεκαδησόμεθα ὑστάτιόν περ</p>
             </div>
             <div n="ref">
-               <p>urn:cts:greekLit:tlg0012.tlg001.burney86:8.352@vνῶϊ</p>
+               <p>urn:cts:greekLit:tlg0012.tlg001.burney86:8.352@νῶϊ</p>
             </div>
             <div n="comment">
                <p>οὐκέτι ὕστερον χοντϊούμεθα τῶν ἑλλήνων. ἀπολοῦνται γάρ ὡς μὴ χρείαν ἔχειν τῆς ἐξ ἡμῶν ἐπικουρίας: τινὲς δὲ κατ' ἐρώτησιν: κεκαδησόμεθα: ἀντὶ φροντιοῦμεν: παρὰ μὴ δεσθαι: ἔχουσιν οὖν ἀπολογίαν διὰ τὸ μὴ περιορᾶν τὴν <rs n="urn:cite2:hmt:place.v1:place3" type="ethnic">Ἑλλήνων</rs> ἐσχάτην ἀπώλειαν: ἔστι δὲ <choice><abbr>μέ</abbr><expan>μέσος</expan></choice> <num n="2">β</num> <choice><abbr>μέ</abbr><expan>μέλλων</expan></choice> καδήσομαι καὶ <rs n="urn:cite2:hmt:place.v1:place77" type="ethnic">Αἰολικῷ</rs> ἀναδιπλασιασμῷ κεκαδήσομαι⁑</p>
@@ -2014,7 +2014,7 @@
                <p>ὑστάτιον</p>
             </div>
             <div n="ref">
-               <p>urn:cts:greekLit:tlg0012.tlg001.burney86:8.353@Γοργοῦς</p>
+               <p>urn:cts:greekLit:tlg0012.tlg001.burney86:8.353@ὑστάτιον</p>
             </div>
             <div n="comment">
                <p>ἀντὶ τοῦ ὕστατον, ὡς <rs type="waw">μάλλιον</rs> τὸ <rs type="waw">μᾶλλον</rs>⁑</p>
@@ -2062,7 +2062,7 @@
                <p>εὖτέ μιν εἰς <placeName>Ἀΐδαο</placeName></p>
             </div>
             <div n="ref">
-               <p>urn:cts:greekLit:tlg0012.tlg001.burney86:8.367@εὖτέ</p>
+               <p>urn:cts:greekLit:tlg0012.tlg001.burney86:8.367@μιν</p>
             </div>
             <div n="comment">
                <p>ἀπὸ τοῦ μείζονος ἄθλου πάντας δηλοῖ: οἶδε δὲ τὸν κύνα: ἥ τὴν φύσιν αὐτοῦ: <persName n="urn:cite2:hmt:pers.v1:pers5">Πίνδαρος</persName> δὲ <rs type="waw">ρ</rs>: <persName n="urn:cite2:hmt:pers.v1:pers4">Ἡσίοδος</persName> δὲ πεντήκοντα ἔχειν αὐτὸν κεφαλάς φασιν</p>
@@ -2806,7 +2806,7 @@
                <p>ἀλλ' ὅς τις τούτων γε βέλος</p>
             </div>
             <div n="ref">
-               <p>urn:cts:greekLit:tlg0012.tlg001.burney86:8.513@ἀλλ'</p>
+               <p>urn:cts:greekLit:tlg0012.tlg001.burney86:8.513@ὥς</p>
             </div>
             <div n="comment">
                <p>βέλος νῦν, τὸ <rs type="waw">βεβλημένον</rs> μέρος τὸ <rs n="waw">τραῦμα</rs> τὸ <q>ἐκ βολῆς</q>: <cit><ref>urn:cts:greekLit:tlg0012.tlg001:11.269</ref><q>ὡς δ' ὅταν ὠδίνουσαν ἔχῃ βέλος</q></cit>: ἀλλ' ὅστις τούτων γε: <persName n="urn:cite2:hmt:pers.v1:pers16">Ἀρίσταρχος</persName> δὲ <q>κείνων γε</q>⁑</p>
