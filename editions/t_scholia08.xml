@@ -2981,9 +2981,101 @@
             </div>
          </div>
 
+         <div n="83r_1" type="scholion">
+            <div n="lemma">
+               <p>ἐπὶ πτολέμοιο γεφύρῃ</p>
+            </div>
+            <div n="ref">
+               <p>urn:cts:greekLit:tlg0012.tlg001.burney86:8.553@πτολέμοιο</p>
+            </div>
+            <div n="comment">
+               <p>τὸν μεταξὺ τῶν στρατιωτῶν τόπον⁑</p>
+            </div>
+         </div>
 
-         
+         <div n="83r_2" type="scholion">
+            <div n="lemma">
+               <p>φαεινὴν ἀμφὶ σελήνην</p>
+            </div>
+            <div n="ref">
+               <p>urn:cts:greekLit:tlg0012.tlg001.burney86:8.555@φαεινὴν</p>
+            </div>
+            <div n="comment">
+               <p>οἱ μ⸌εν ἄρτι φαίνεσθαι ἀρχομένην οἷον νέαν ἐν τῷ φάει: οἱ δ⸌ε, λεπτήν: <cit><ref>urn:cts:greekLit:tlg0012.tlg001:10.500</ref><q>μάστιγα φαεινήν</q></cit>: οἱ δ⸌ε τὴν φύσει φαεινήν: καὶ <cit><ref>urn:cts:greekLit:tlg0012.tlg001:18.349</ref><q>ζές εν ὕδωρ ἐνὶ ἤνοπι χαλκῷ</q></cit>: καὶ <cit><ref>urn:cts:greekLit:tlg0012.tlg001:4.47</ref><q>εὐμελίοιο <persName n="urn:cite2:hmt:pers.v1:pers145">Πριάμοιο</persName></q></cit>: καὶ <cit><ref>urn:cts:greekLit:tlg0012.tlg001:2.467</ref><q><placeName n="urn:cite2:hmt:place.v1:place93">Σκαμανδρίῳ</placeName> ἀνθεμόεντι</q></cit>: προσφυῶς δὲ τῷ νυκτερινῷ φωτὶ, αὐτὰ ἀπεικάζει⁑</p>
+            </div>
+         </div>
 
+         <div n="83r_3" type="scholion">
+            <div n="lemma">
+               <p>πρώονες</p>
+            </div>
+            <div n="ref">
+               <p>urn:cts:greekLit:tlg0012.tlg001.burney86:8.557@πρώονες</p>
+            </div>
+            <div n="comment">
+               <p>ἀπὸ τοῦ ὁ πρών <rs n="waw">πρῶνες</rs>: καὶ κατὰ διαίρεσιν πρώονες: εἰσὶ δὲ ὄρους ἐξοχαί⁑</p>
+            </div>
+         </div>
+
+         <div n="83r_4" type="scholion">
+            <div n="lemma">
+               <p>πάντα δὲτ' εἴδεται ἄστρα</p>
+            </div>
+            <div n="ref">
+               <p>urn:cts:greekLit:tlg0012.tlg001.burney86:8.559@πάντα</p>
+            </div>
+            <div n="comment">
+               <p>οὐκ ἐφέροντο τά <rs n="waw">γ</rs> παρὰ <persName n="urn:cite2:hmt:pers.v1:pers15">Ζηνοδότῳ</persName>: ἠθέτει δὲ καὶ <persName n="urn:cite2:hmt:pers.v1:pers21"><choice><abbr>Ἀριστοφά</abbr><expan>Ἀριστοφάνης</expan></choice></persName> τὰ <rs n="waw">γ</rs>⁑</p>
+            </div>
+         </div>
+
+         <div n="83r_5" type="scholion">
+            <div n="lemma">
+               <p>τόσα μεσηγὺ νεῶν</p>
+            </div>
+            <div n="ref">
+               <p>urn:cts:greekLit:tlg0012.tlg001.burney86:8.560@τόσσα</p>
+            </div>
+            <div n="comment">
+               <p>ἐσχημάτισε τὸν λόγον: οὐκ ἐπενεγκὼν τὸ: <cit><ref>urn:cts:greekLit:tlg0012.tlg001:8.55</ref><q>ὡς δ' ὅτ' ἐν <choice><abbr>οὐνῷ</abbr><expan>οὐρανῷ</expan></choice> ἄστρα</q></cit>: τὸ, <q>οὕτως μεταξὺ τῶν νεῶν</q>⁑</p>
+            </div>
+         </div>
+
+         <div n="83r_6" type="scholion">
+            <div n="lemma">
+               <p>πὰρ δὲ ἑκάστω</p>
+            </div>
+            <div n="ref">
+               <p>urn:cts:greekLit:tlg0012.tlg001.burney86:8.562@δὲ</p>
+            </div>
+            <div n="comment">
+               <p>τὸ ἑξῆς παρὰ ἑκάστω σέλα εἵατο <num n="50">ν</num> ἄνδρες: ἀποκοπὴ γάρ ἐστι τοῦ σέλαϊ: τὸ φιλότιμον δὲ τῶν ἀριθμῶν καὶ ἐν <rs n="urn:cite2:hmt:citedworks:work1" type="urn">Ὀδυσσείᾳ</rs> <cit><ref>urn:cts:greekLit:tlg0012.tlg002:3.7</ref><q>πεντηκόσιοι δ' ἀν' ἑκάστῃ</q></cit> καὶ <cit><ref>urn:cts:greekLit:tlg0012.tlg002:9.159</ref><q>νῆες μέν μοι ἕποντο δυώδεκα</q></cit>⁑</p>
+            </div>
+         </div>
+
+         <div n="83r_7" type="scholion">
+            <div n="lemma">
+               <p>εἵατο <num n="50">ν</num></p>
+            </div>
+            <div n="ref">
+               <p>urn:cts:greekLit:tlg0012.tlg001.burney86:8.563@εἴατο</p>
+            </div>
+            <div n="comment">
+               <p>ἀφορμὴν λαβὼν καὶ τὸν τῶν <rs n="urn:cite2:hmt:pers.v1:pers220" type="ethnic">Τρῴων</rs> ἡμῖν ἀριθμὸν ἐδήλωσεν ὅτι ἀμφὶ τὰς πέντε μυριάδας ἐστὶν αὐτῶν τῶν πολιτῶν: οἱ γὰρ ἐπίκουροι καθεύδουσι: <rs n="urn:cite2:hmt:pers.v1:pers220" type="ethnic">Τρωσὶ</rs> τὴν φυλακὴν ἐπιτρέψαντες⁑</p>
+            </div>
+         </div>
+
+         <div n="83r_8" type="scholion">
+            <div n="lemma">
+               <p>κρῖ λευκὸν</p>
+            </div>
+            <div n="ref">
+               <p>urn:cts:greekLit:tlg0012.tlg001.burney86:8.564@κρῖ</p>
+            </div>
+            <div n="comment">
+               <p>εἰ ἦν ἀπὸ τοῦ κριθή λευκὴν ἂν ἐπήγαγεν⁑</p>
+            </div>
+         </div>
 
         </body>
       </text>
@@ -4192,6 +4284,18 @@
             </div>
             <div n="comment">
                <p><persName n="urn:cite2:hmt:pers.v1:pers15">Ζηνόδοτος</persName> οὐδὲ γράφει τοῦτον</p>
+            </div>
+         </div>
+
+         <div n="83r_1" type="scholion">
+            <div n="lemma">
+               <p/>
+            </div>
+            <div n="ref">
+               <p>urn:cts:greekLit:tlg0012.tlg001.burney86:8.559@εἴδεται</p>
+            </div>
+            <div n="comment">
+               <p>ἄνευ τοῦ <rs n="waw">τε</rs>:</p>
             </div>
          </div>
 
